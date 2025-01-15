@@ -1,0 +1,61 @@
+{
+    "locations": [
+      {
+        "name": "Jalaj Saryu",
+        "description": "Production, training and awareness centre",
+        "image": "https://lh3.googleusercontent.com/17l-33SiifdsoJbcDix1cD1SRLhIZXYbN",
+        "coords": [82.00961, 26.78365],
+        "details": {
+          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
+          "concept": "Jalaj Saryu integrates a production and training unit.",
+          "activity": [
+            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
+            "Witness various patches of natural farming in this village."
+          ],
+          "howToReach": {
+            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
+            "railwayStation": "Sohawal railway station, approx 10km.",
+            "byRoad": "Public transport available 7km (approx.)"
+          }
+        }
+      },
+      {
+        "name": "Shardul",
+        "description": "Description",
+        "image": "https://lh3.googleusercontent.com/19OqWfpAwOr_X7SqR0tPRJpb6a-AyeSzJ",
+        "coords": [83.916289, 27.427715],
+        "details": {
+          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
+          "concept": "Jalaj Saryu integrates a production and training unit.",
+          "activity": [
+            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
+            "Witness various patches of natural farming in this village."
+          ],
+          "howToReach": {
+            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
+            "railwayStation": "Sohawal railway station, approx 10km.",
+            "byRoad": "Public transport available 7km (approx.)"
+          }
+        }
+      },
+      {
+        "name": "Aarya",
+        "description": "Description",
+        "image": "https://lh3.googleusercontent.com/13q-xpu-P3wvM_H3PILtHUn0932Wj1YoN",
+        "coords": [88.233151, 22.261026],
+        "details": {
+          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
+          "concept": "Jalaj Saryu integrates a production and training unit.",
+          "activity": [
+            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
+            "Witness various patches of natural farming in this village."
+          ],
+          "howToReach": {
+            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
+            "railwayStation": "Sohawal railway station, approx 10km.",
+            "byRoad": "Public transport available 7km (approx.)"
+          }
+        }
+      }
+    ]
+  }
