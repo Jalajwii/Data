@@ -2,60 +2,1005 @@
     "locations": [
       {
         "name": "Jalaj Saryu",
-        "description": "Production, training and awareness centre",
+        "description": "Livelihood Centre",
+        "place": "Ayodhya, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1A7uTpMoxyEpYyScVBr3p3xNvgFagx2sG",
         "coords": [82.00961, 26.78365],
         "details": {
-          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
-          "concept": "Jalaj Saryu integrates a production and training unit.",
+          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district. Uttar Pradesh in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First war of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Bijnor occupies the north-west corner of the Moradabad Division (historically, Rohilkhand or Bareilly region). The western boundary is formed throughout by the deep stream of the river Ganges, beyond which lie the four districts of Haridwar, Saharanpur, Muzaffarnagar, and Meerut. ",
+          "concept": "The village is situated at the bank of Ghagra river, rich in culture and biodiversity. The river is mentioned as one of the most important waterways in Uttar Pradesh in ancient Hindu scriptures such as the Vedas and Ramayan. Jalaj Saryu, is an integrated model with a production and training unit, natural farming and an awareness centre. Small production units run by women and set up in different villages will make a sustainable, eco-friendly and self-reliant economic model.  This will benefit the conservation goals by engaging local communities in the conservation of Ghagra river system. ",
           "activity": [
-            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
-            "Witness various patches of natural farming in this village."
+            "Women communities of Jalaj Sarayu prepare homemade products such as jam, vegetable/fruit pickles, jute bags etc.",
+            "Site walk to Ram ki Pairi which is the Saryu river-front, which features a long stretch of ghats and gardens bordered by a row of temples.",
+            "One can witness various patches of natural farming in this village along with large stretch of agricultural farms."
           ],
           "howToReach": {
-            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
+            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km from Mangalsi village.",
             "railwayStation": "Sohawal railway station, approx 10km.",
             "byRoad": "Public transport available 7km (approx.)"
           }
         }
       },
       {
-        "name": "Shardul",
-        "description": "Description",
-        "image": "https://lh3.googleusercontent.com/d/1vEqSVZ5xV2rf-GbGa5xoUpOGWBGha26N",
-        "coords": [83.916289, 27.427715],
-        "details": {
-          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
-          "concept": "Jalaj Saryu integrates a production and training unit.",
-          "activity": [
-            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
-            "Witness various patches of natural farming in this village."
-          ],
-          "howToReach": {
-            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
-            "railwayStation": "Sohawal railway station, approx 10km.",
-            "byRoad": "Public transport available 7km (approx.)"
-          }
-        }
-      },
-      {
-        "name": "Aarya",
-        "description": "Description",
+        "name": "Jalaj Aarya",
+        "description": "Livelihood Centre",
+        "place": "24 Paragana (South), West Bengal",
         "image": "https://lh3.googleusercontent.com/d/1Luh9CJXKQJmY8d98slcDaeWHy51hYXs_",
-        "coords": [88.233151, 22.261026],
+        "coords": [88.233151, 22.261026], 
         "details": {
-          "intro": "Jalaj Saryu is situated at Village Mangalsi in Ayodhya district.",
-          "concept": "Jalaj Saryu integrates a production and training unit.",
+          "intro": "Jalaj Aarya is being established with the support of the local NGO-Kankura Masat Social Welfare Society, in the 24 Parganas (South) district of West Bengal. It represents strengthened local communities and institutions to protect and conserve the natural resources that sustain their livelihood and culture. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda.",
+          "concept": "Jalaj Aarya is a livelihood training & production unit situated in close proximity to the confluence of Roopnarayan and Hooghly rivers. It aims to build capacities, self-earning, and leadership qualities in rural women, encouraging education of the children in the proximity.",
           "activity": [
-            "Ram ki Pairi is the Saryu river-front, which features a long stretch of ghats and gardens.",
-            "Witness various patches of natural farming in this village."
+            "On Jalaj safari, tourists can sight two species of river dolphins, namely; The Gangetic dolphin and the Irrawaddy Dolphin.",
+            "Women Ganga Praharis are trained to produce value-added products using local resources which are displayed at various Jalaj sales points and haats."
           ],
           "howToReach": {
-            "airport": "Chaudhary Charan Singh Airport in Lucknow, approx 132km.",
-            "railwayStation": "Sohawal railway station, approx 10km.",
-            "byRoad": "Public transport available 7km (approx.)"
+            "airport": "Netaji Subhash Chandra Bose International Airport in Kolkata, approximately 57km away.",
+            "railwayStation": "Kolkata Railway Station, approximately 45km away.",
+            "byRoad": "Distance between South 24 Parganas to Kolkata by road is 60kms."
           }
         }
-      }
+      },
+      {
+        "name": "Jalaj Shardul",
+        "description": "Livelihood Centre",
+        "place": "West Champaran, Bihar",
+        "image": "https://lh3.googleusercontent.com/d/1vEqSVZ5xV2rf-GbGa5xoUpOGWBGha26N",  
+        "coords": [83.916289, 27.427715], 
+        "details": {
+          "intro": "Jalaj Shardul is located at the bank of Gandak River in Valmiki Nagar, Bihar. Jalaj Shardul is an 'Awareness centre cum Souvenir shop' and is an amalgamation of community-led conservation and livelihood development. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' It has been an abode for many rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, as well as one of the world's most widely adhered-to religions: Buddhism. The state is renowned for several traditional styles of painting, including Mithila painting (or Madhubani art) and Manjusha Painting. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and many other ancient monuments.",
+          "concept": "Ganga Praharis of Jalaj Shardul at Luv-Kush Ghat have started the first 'awareness centre and souvenir shop' in their area to make people aware of river and aquatic life conservation as well as to provide sustainable livelihood opportunities to river-dependent communities such as fisher folks. Through livelihood interventions, it engages local communities directly in conservation, reducing their dependency on the water bodies and develops their abilities to earn their livelihoods.",
+          "activity": [
+            "Jalaj Shardul is linked with trained Ganga Praharis who are preparing and showcasing Moonj Grass products, cloth bags, honey, and other handicrafts as souvenirs for the visitors.",
+            "More than 100 Ganga Praharis families from the fishers, boatmen, youth, and women have been trained in alternate livelihood skills namely 'sewing and stitching', Moonj grass product making, incense stick, and candle making.",
+            "Jalaj Shardul also targets to create awareness among visitors of Valmiki Tiger Reserve as well as the local people regarding aquatic and terrestrial biodiversity. The Tiger Reserve has rich fauna such as tigers, Indian rhinoceros, etc."
+          ],
+          "howToReach": {
+            "airport": "Gorakhpur airport, Uttar Pradesh (110km) and JP Narayan Airport, Patna (29km) away.",
+            "railwayStation": "The nearest rail head Valmiki Nagar is 5km from the park.",
+            "byRoad": "There are bus services from Valmiki Nagar to Bettiah (80km), the nearest town."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Aayush",
+        "description": "Health and Wellness Center",
+        "place": "Medinipur, West Bengal",
+        "image": "https://example.com/image.jpg",  
+        "coords": [87.317744, 22.425682],  
+        "details": {
+          "intro": "Jalaj Aayush is working on the areas of agriculture, basic health, education, rural development, environmental protection, and improved lifestyles for underprivileged children. Jalaj is proposed to give the economically and socially downtrodden people more opportunities. The centre is situated in Medinipur district of West Bengal. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, etc. Medinipur, known as Midnapore or Madanipur, is a historic city in West Bengal, India, and the headquarters of the West Medinipur district. Situated along the Kangsabati River, it comprises the urban areas of Mohanpur, Keranichati, Khayerullachak, and the city proper. Together with the nearby city of Kharagpur, it forms the Midnapore Kharagpur Development Authority metro area.",
+          "concept": "Jalaj Aayush has an objective of organic farming, awareness about conservation of Ganga and its biodiversity, and preservation of the pure culture and heritage sites. Jalaj Aayush focuses on wildlife conservation with awareness campaigns and with the concept of a sale point which can provide sustainable products made by local artisans with eco-friendly methods. It is also working on organic farming specifically on millet farming for better health and wellness along with fish farming practices.",
+          "activity": [
+            "The primary objective of Jalaj Aayush is to increase public awareness of the Ganga and its biodiversity.",
+            "It also emphasizes cleanliness and plantation drives.",
+            "Jalaj Aayush also focuses on increasing ecotourism, creating livelihood opportunities for locals, and increasing public awareness of the importance of wildlife conservation and heritage and culture preservation."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhas Chandra Bose International Airport is approximately 140km away.",
+            "railwayStation": "Midnapur railway station (6.5km approx.)",
+            "byRoad": "Jalaj Aayush is well connected by road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Aikanta",
+        "description": " Jalaj Safari",
+        "place": "Bandel, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1TJpl-DJJVy5FbbuK3_l0wnHG5SKX6hMp",  
+        "coords": [88.403748, 22.916248], 
+        "details": {
+          "intro": "Jalaj Aikanta is located at Chandni Ghat, Bandel, Hoogly district of West Bengal, which is a historic place and represents societal harmony and symbiotic linkages between river and people. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, etc.",
+          "concept": "Jalaj Aikanta consists of two awareness ferries that will float from two ghats: Chandni Ghat, Chowk Bazar and Bokultala Tamlipara Ghat. In these ferries, Ganga Prahari will make people aware of the Ganga River basin, its aquatic biodiversity, threats, and means to protect & conserve them at an individual level. These boats will also serve as floating markets for Ganga Prahari products. This initiative focuses on ensuring community partnership in conservation by making them aware and linking their livelihoods.",
+          "activity": [
+            "This Jalaj will include activities like Biodiversity watch, Livelihood and production unit, Natural farming, and Bal Ganga Prahari programme.",
+            "Bandel has an important place in history and has some of the most remarkable architectural structures, including one of the oldest churches in India, Bandel Church, Hooghly Immambara, a Shia Muslim congregation hall and mosque, and the Hangseshwari temple.",
+            "The stretch of Ganga at Bandel is a vulnerable stretch for freshwater species including the Gangetic dolphin."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhash Chandra Bose International Airport located, 58.9km from Chandani Ghat.",
+            "railwayStation": "Bandel Junction, 2.5km from Chandani Ghat.",
+            "byRoad": "Bandel has road connectivity with all the major cities in the region. It is situated on the Grand Trunk Road, also known as National Highway-2 (NH2), which connects Kolkata to Delhi."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Arkja",
+        "description": " Jalaj Safari",
+        "place": "Prayagraj, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1DHLR9RMrpO8Moo-KVacmLeLdYEE05Z5a", 
+        "coords": [81.776694, 25.282504],  
+        "details": {
+          "intro": "Jalaj Arkja is located at Sangam Ghat, Triveni Sangam in Prayagraj district, Uttar Pradesh. Uttar Pradesh in the Vedic Age was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First War of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Prayagraj is one of the most revered cities in Uttar Pradesh. It stands at the confluence of the Ganges, Yamuna, and mythical Sarasvati rivers and hosts the famous Kumbh Mela, the largest gathering of pilgrims in the world. Prayagraj is a city deeply entwined with religious and cultural history, making it a significant destination for spiritual seekers and history enthusiasts alike.",
+          "concept": "The Ghat holds utmost religious importance. It is the place of the confluence of the Ganga, Yamuna, and the mythical Saraswati river. The Rigveda mentions the auspiciousness of the confluence of two rivers, saying, 'Those who bathe at the place where the two rivers, white and dark, flow together, rise up to heaven.' It has also hosted the immersion of the ashes of several national leaders, including Mahatma Gandhi in 1949. To make people aware of the biodiversity of the river and to promote ecotourism, the Jalaj Safari is launched at Triveni Sangam, Prayagraj. Jalaj Arkja sensitizes the visitors and pilgrims regarding the conservation of biodiversity of the rivers.",
+          "activity": [
+            "Jalaj safari at Triveni Sangam.",
+            "Site for Kumbh Mela held once every 12 years and Ardh Kumbh Mela held once every 6 years.",
+            "One can buy terracotta craft made by skilled Ganga Praharis."
+          ],
+          "howToReach": {
+            "airport": "Deen Dayal Upadhyay Airport or the Prayagraj Airport via Delhi.",
+            "railwayStation": "The Prayagraj Sangam railway station, 2.5km from Sangam Ghat.",
+            "byRoad": "Sangam Ghat is approximately 8km away from the bus station."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Chitrangada",
+        "description": " Jalaj Safari",
+        "place": "Farakka, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1EzKvMjoYr5zesL3JmHSKF_Peu2eXdn7Y", 
+        "coords": [87.918266, 24.809353],  
+        "details": {
+          "intro": "Jalaj Chitrangada is established at Gandhi Ghat Farakka barrage, in Murshidabad district of West Bengal. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, etc. Murshidabad is a historical city situated in West Bengal, India. It is located on the eastern bank of the Bhagirathi River, a distributary of the Ganges.",
+          "concept": "Jalaj Chitrangada consists of a Jalaj Safari, a dolphin and biodiversity watch for creating awareness and promoting livelihood, and a sale centre for livelihood development. These safaris also showcase the GACMC (Ganga Aqualife Conservation Monitoring Center) knowledge material on aquatic flora and fauna of the Ganga River. Activities conducted are in line with the local 'Haat' which will maximize the reach and benefits of the initiative. This Ghat has been developed by the National Mission for Clean Ganga to create a recreational space for visitors. This is the last point of the Ganga; beyond this point, it’s known as Hooghly. This is also a major habitat of our national aquatic animal, the Gangetic dolphin.",
+          "activity": [
+            "Jalaj safari for dolphins and other aquatic species.",
+            "The local haat brings in a diverse culture together for the tourists to become aware of local crafts and edibles."
+          ],
+          "howToReach": {
+            "airport": "Kolkata Airport, 314km from Gandhi Ghat.",
+            "railwayStation": "New Farakka Junction, 2.5km (approx.) away from Gandhi Ghat.",
+            "byRoad": "The distance between Gandhi Ghat, Farakka barrage and Farakka bus-station, by road is approximately 3km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Parikshit",
+        "description": " Jalaj Safari",
+        "place": "Muzaffarnagar, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1Lf6TSqeZXouDTpghIEuYsZvTCQSXKGSN",
+        "coords": [77.990522, 29.490434],  
+        "details": {
+          "intro": "Jalaj Parikshit is at Shukratal on the bank of River Solani, which is a tributary of River Ganga in Muzaffarnagar district in Uttar Pradesh. Uttar Pradesh in the Vedic Age was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First War of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. The Yamuna River in the west and the Ganga River in the east separate the Muzaffarnagar district.",
+          "concept": "Jalaj Parikshit is an attraction point for tourists due to its religious and cultural backing. At Shukratal, Sage Sukadev Goswami narrated the sacred Srimad-Bhagavatam to Maharaja Pariksit, son of Abhimanyu, 5000 years ago. Jalaj Parikshit beautifully intervenes people with spirituality and nature, forcing them to think about their actions towards mother Earth. This promotes cleanliness of the river and the conservation of its biodiversity, by creating social and economic security for the local community by developing their skills and providing market linkages.",
+          "activity": [
+            "A boat ride where tourists learn about the local history and enjoy nature and the aquatic species.",
+            "One can purchase local produce made by our Ganga Praharis and visit the Akshayavat tree (the undying tree; never sheds leaves).",
+            "Holy visit to Shukdev Temple that has idols of Sage Sukadev and King Pariksit.",
+            "Tallest idol of Lord Hanuman (75 feet) at an ancient old Hanuman Temple."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehra Dun, Uttarakhand, 98 kilometres away & Indira Gandhi International Airport, New Delhi, 105km away.",
+            "railwayStation": "Muzaffarnagar railway station, 28km away.",
+            "byRoad": "The distance between Shukratal, Muzaffarnagar, U.P. to the roadways bus station is approximately 30km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Saras",
+        "description": " Jalaj Safari",
+        "place": "Begusarai, Bihar",
+        "image": "https://lh3.googleusercontent.com/d/1_50Jt7qLXUdJnwS0IWVET4JE-KP8c8bT",
+        "coords": [86.147661, 25.631682], 
+        "details": {
+          "intro": "Jalaj Saras lies in the luxuriant surrounding with plenty of aquatic vegetation around the Kanwar lake in Begusarai district, Bihar. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' It has been an abode for many rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, as well as one of the world's most widely adhered-to religions: Buddhism. The state is renowned for several traditional styles of painting, including Mithila painting (or Madhubani art) and Manjusha Painting. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and many other ancient monuments.",
+          "concept": "To promote the concept of ecotourism and conservation of several avian species, boatmen have been trained in biodiversity-based tourism conduct, who make visitors and local people aware while securing a sustainable livelihood source. Boat safari in Jalaj Saras is established with the same objective through linkage of local economy with conservation to ensure people’s participation.",
+          "activity": [
+            "Jalaj Saras consists of boat safaris in the Kanwar lake. It is home to thousands of native and migratory birds (Open bill stork, Saras, Ibis, Hans, etc.) during the winter season. It is also Asia’s largest freshwater oxbow lake in the Gandak basin and the first designated Ramsar site of the Bihar state.",
+            "The activities like boating, bird watching, and sightings of large stretches of Lotus swamps are the key attractions of Jalaj Saras.",
+            "The Ganga Praharis and locals are trained for making handicrafts and souvenirs for the tourists.",
+            "The Jaimangala temple and the Jaimangala fort on the bank of the Kanwar lake hold great historical importance."
+          ],
+          "howToReach": {
+            "airport": "Jayaprakash Airport in Patna (approximately 135km).",
+            "railwayStation": "Begusarai railway station, 36km from Kanwartal.",
+            "byRoad": "Via Jaimangl Garh road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Urja",
+        "description": " Jalaj Safari, Awareness and Sale Point",
+        "place": "Bulandshahr, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1D0q-4z6gVCxrrbX_sqg2_5GjJ3YwWNaO",
+        "coords": [78.39711, 28.188947], 
+        "details": {
+          "intro": "Jalaj Urja is a knowledge cum livelihood corner near the residential campus of Narora Atomic Power Station in Bulandshahr district of Uttar Pradesh. Uttar Pradesh in the Vedic Age was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First War of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists.",
+          "concept": "Jalaj Urja focuses on creating awareness about the conservation of aquatic biodiversity of the river Ganga and promotes local handmade products and items for income generation as an alternative livelihood for local people through training in skill development. It will be linked with small units of Jalaj Safari, livelihood training centres, and production units, making it a holistic model with the concept of a circular economy.",
+          "activity": [
+            "Bird watching.",
+            "Ganga Praharis are skilled at ceramic pottery in the Khurja region (17 km away).",
+            "Jalaj integrates local craft such as handlooms and other handcrafted goods as well.",
+            "The whole area lies on the fertile belt of the Gangetic plain, thus one can witness the scenic view of a large stretch of agricultural land."
+          ],
+          "howToReach": {
+            "airport": "IGI Airport, New Delhi.",
+            "railwayStation": "Rajghat railway station at a distance of 5km and Aligarh junction at a distance of 48.2km.",
+            "byRoad": "Approximately 161km from New Delhi to Narora Atomic Power Station, then 6.2km to Jalaj Urja. Public and private transport are readily available."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Aadri",
+        "description": " Homestay",
+        "place": "Pauri (Garhwal), Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1Et6QdDMoFHSI5Atk_PcPMD3AFSluX8z0",
+        "coords": [78.680905, 29.861069],
+        "details": {
+          "intro": "Pauri (Garhwal) district is located in Uttarakhand state. Jalaj Aadri is based on the concept of a 'Home Stay and Livelihood Center.' Devbhoomi Uttarakhand, an abode of God and Goddesses, a region of peace, harmony, and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Garhwal is bordered by Tibet on the north, Kumaon on the east, Uttar Pradesh state on the south, and by Himachal Pradesh state on the northwest. The native name of Garhwal was “Kedarkhand,” meaning 'The land of God.' The Katyuris are the earliest recorded reigning dynasty in Garhwal. Uttarakhand's Katyuri Raja (Kumaon and Garhwal). Pauri district is situated partly in the Gangetic plain and partly in the Lower Himalayas. Although it is a small portion of the Garhwal region, the Pauri Garhwal headquarters, located in the Pauri town, is known as Garhwal district.",
+          "concept": "Jalaj Aadri, a homestay and livelihood center, is dedicated to providing visitors with an authentic regional cultural experience, emphasizing the richness of local traditions. Serving as a cultural hub, the homestay encourages guests to actively engage with the community and learn about time-honored practices. The atmosphere at Jalaj Aadri reflects the simplicity of rural life, ensuring an unforgettable stay for every guest as it is located in the heart of Pauri (Garhwal) district.",
+          "activity": [
+            "Jalaj Aadri organizes various activities for guests to immerse themselves in the local culture.",
+            "Beyond being a homestay, Jalaj Aadri actively participates in cleanliness, plantation, and awareness drives."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 130km)",
+            "railwayStation": "Kotdwar Railway Station (approximately 110km)",
+            "byRoad": "Conveniently connected through well-maintained roads."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Anand Ganga",
+        "description": " Homestay",
+        "place": "Uttarkashi, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1H0XjIfVIXXRorE948ggZpqdtfIolVZOf",
+        "coords": [78.474328, 30.75197], 
+        "details": {
+          "intro": "Jalaj Anand Ganga located in Netala Village in Bhatwari Block in Uttarkashi District of Uttarakhand State, is a homestay based model to promote eco-tourism and showcase Pahari (mountain) cultural beliefs and traditional way of life. Devbhoomi Uttarakhand, an abode of God and Goddesses, a region of peace, harmony, and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Uttarkashi, a meditational ground of sages as mentioned in the ‘Skand Purana’ is blessed with a bounty of natural resources in their purest form. Bhatwari block in Uttarkashi, Uttarakhand, is nestled in the pristine Himalayan region and is known for its natural beauty, with scenic landscapes, serene rivers, and lush forests, making it a favored destination for travelers seeking solace amidst the mountains.",
+          "concept": "Jalaj unit named Jalaj Anand Ganga gives a glimpse of mountain life and introduces visitors to local culture, lifestyle, music, and food especially highly nutritious millets, and also caters to their mental wellbeing and physical health through regular Yoga sessions. Thus, Jalaj Anand Ganga is an integrated self-reliant unit that has provided employment opportunities to local community members from Naitala, Siror, Ganeshpur, and Matli villages in the homestay. This homestay is also an awareness center and selling point of native Ganga Prahari products including incense sticks and edible salt prepared with a mix of different kinds of herbs. An important component of this Jalaj is the revived traditional Gharat (Water mill); tourists at Jalaj Anand Ganga will have the opportunity to take a walk and learn in person about this conventional method of flour making. Further, value additions will be done for enhancing the village life exposure for Char Dham Yatra tourism. These efforts will aid sustainable livelihood development opportunities and strengthen the circular economy for riverside communities.",
+          "activity": [
+            "Yoga morning & meditation. Cultural activities like local delicacies, folk dance & music.",
+            "River walk from Siror village to Hena village along Bhagirathi river (approx. ½ km). Village walk covering Siror village (approx. 1.5-2 km).",
+            "Bird watching in Siror village and its forest surroundings (approx. 4-5 km).",
+            "Visit to water mill in Ganeshpur village approx. 3-4 km from Jalaj Anand Ganga."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (181km approx.)",
+            "railwayStation": "Dehradun railway station (152km approx.)",
+            "byRoad": "Distance between Dehradun and Netala village is approximately 153km. Public and private transport is readily available from Dehradun city."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Dhruv Nanda",
+        "description": " Homestay",
+        "place": "Tehri Garhwal, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1VJBhKlLOjlvWz0KtbrqIXOsGPBHqBbIw",
+        "coords": [78.473149, 30.383267],
+        "details": {
+          "intro": "Jalaj Dhruv Nanda is situated in the Tehri (Garhwal) district of Uttarakhand and is designated as a 'Home Stay and Livelihood Centre.' Devbhoomi Uttarakhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Garhwal is bordered by Tibet on the north, Kumaon on the east, Uttar Pradesh state on the south, and by Himachal Pradesh state on the northwest. The native name of Garhwal was 'Kedarkhand,' meaning 'The land of God.' The Katyuris are the earliest recorded reigning dynasty in Garhwal. Uttarakhand's Katyuri Raja (Kumaon and Garhwal). Tehri has been derived from the word ‘Trihari,’ which denotes a location that cleanses the three types of sins—known as Mansa, Vacha, and Karmana (thinking, word, and deed). Tehri Lake, formed by the construction of the Tehri Dam on the Bhagirathi River, is a large reservoir that is popular with adventurers and peace-seekers alike and also an important hydropower project, which has a surface area of 52 km². Tehri Lake is a great place to enjoy boating, parasailing, jet skiing, water skiing, banana boating, and kayaking, among other adventure and water sports.",
+          "concept": "Jalaj Dhruv Nanda is more than just a homestay; it's a cultural hub that promotes and preserves the essence of the local way of life. Embracing simplicity and authenticity, this homestay actively encourages guests to engage with the community, fostering a deep understanding of time-honored practices. The serene surroundings, situated in Tehri Garhwal district, create a perfect backdrop for an unforgettable stay.",
+          "activity": [
+            "At Jalaj Dhruv Nanda, a variety of activities are offered to guests, allowing them to fully immerse themselves in the local culture.",
+            "The homestay at Jalaj Dhruv Nanda is dedicated to sustainability. It actively promotes and preserves local culture and traditions, making it a beacon for responsible tourism that benefits the community and guests alike.",
+            "It also actively participates in awareness programs and cleanliness drives."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 95km)",
+            "railwayStation": "Rishikesh Railway Station (approximately 80km)",
+            "byRoad": "Conveniently connected through well-maintained roads, providing a scenic journey to Jalaj Dhruv Nanda."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Shiv Nandi",
+        "description": "Homestay",
+        "place": "Rudraprayag, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1w4yveM9lvdzX_sbOvhLQiqe7y7ffFzFx", 
+        "coords": [79.068346, 30.324804],
+        "details": {
+          "intro": "Jalaj Shiv Nandi is located at Rudraprayag district (Rudraprayag is situated at the confluence of the rivers Alaknanda and Mandakini) in Uttarakhand. Jalaj Shiv Nandi is an ‘Home Stay and Livelihood Centre.’ Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Garhwal is bordered by Tibet on the north, Kumaon on the east, Uttar Pradesh state on the south, and by Himachal Pradesh state on the northwest. The native name of Garhwal was “Kedarkhand” means ‘The land of God.’ The Katyuris are the earliest recorded reigning dynasty in Garhwal. Uttarakhand's Katyuri Raja (Kumaon and Garhwal). Rudraprayag is the town where the holy rivers Mandakini and Alaknanda converge. This holy site is thought to be the location where Lord Shiva first appeared and blessed Narad Muni. Rudraprayag, the starting point of the Char Dham Yatra, is encircled by magnificent Himalayan peaks and beautiful scenery. The town's serene ambience makes it a popular religious center as well as a lovely vacation spot for environmentalists and hiking enthusiasts.",
+          "concept": "Jalaj Shiv Nandi, a homestay and livelihood center, is dedicated to offering visitors an authentic regional cultural experience, emphasizing the richness of local traditions. Functioning as a cultural hub, the homestay encourages guests to actively engage with the community, learn about time-honored practices. The atmosphere at Jalaj Shiv Nandi mirrors the simplicity of rural life, ensuring an unforgettable stay for every guest as it is situated at the confluence of Alaknanda and Mandakini at Rudraprayag town (one of the Panchprayag of Uttarakhand).",
+          "activity": [
+            "Jalaj Shiv Nandi, a homestay and livelihood center, organizes various activities for guests to immerse themselves in the local culture.",
+            "Jalaj Shiv Nandi, besides being a homestay, actively participates in cleanliness and awareness drives."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 155km)",
+            "railwayStation": "Rishikesh Railway Station (approximately 140km)",
+            "byRoad": "Conveniently connected through well-maintained roads."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Siddhartha",
+        "description": "Homestay, Awareness & Sale Point",
+        "place": "Chamoli, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1S_EulcWcuFbazUb_MYbKOzCLk46aPik6",
+        "coords": [79.561718, 30.618672],  
+        "details": {
+          "intro": "Jalaj Siddhartha is located at Pinola village near Badrinath Dham (one of the Char-Dham of India) in Uttarakhand. Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Garhwal is bordered by Tibet on the north, Kumaon on the east, Uttar Pradesh state on the south, and by Himachal Pradesh state on the northwest. The native name of Garhwal was 'Kedarkhand,' meaning 'The land of God.' The Katyuris are the earliest recorded reigning dynasty in Garhwal. Uttarakhand's Katyuri Raja (Kumaon and Garhwal). According to the oldest legends, Joshimath Katyuris' domain in Garhwal covered all of Rohilkhand, from the snows to the plains, and from Satluj to Gandaki. According to tradition, the Raj started at Joshimath, which is in the north, close to Badrinath. After that, they moved to the Katyur Valley in Almora district, where they found the city of Kartikapura.",
+          "concept": "Jalaj Siddhartha functions as an Awareness & sales point. The goal of Jalaj Siddhartha is to provide the local population with the information and abilities necessary for sustainable development. Moreover, it facilitates cultural enrichment and encourages eco-friendly behaviors. The region's dedication to protecting its cultural legacy while encouraging sustainable lifestyle development and activities is embodied in Jalaj Siddhartha.",
+          "activity": [
+            "The center hosts workshops on regional edible, ornamental and cultural products providing insights into the vibrant regional culture.",
+            "Jalaj Siddhartha actively engages in conservation activities, including tree plantation and cleanliness drives. Additionally, awareness campaigns are conducted to safeguard the environment, culture, and promote sustainable practices."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport in Dehradun, approximately 300km away, connects the city to major domestic airports.",
+            "railwayStation": "Rishikesh Railway station, around 270km away.",
+            "byRoad": "Dehradun is well-connected by road to nearby cities and towns, making it easily accessible for visitors traveling by public transport."
+          }
+        }
+      },
+      {
+        "name": "Jalaj XRA",
+        "description": "Homestay",
+        "place": "Joshimath, Chamoli, Uttarakhand",
+        "image": "https://example.com/image.jpg", 
+        "coords": [79.565139, 30.559606], 
+        "details": {
+          "intro": "Jalaj XRA is located at Joshimath in Chamoli district, Uttarakhand. Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Garhwal is bordered by Tibet on the north, Kumaon on the east, Uttar Pradesh state on the south, and by Himachal Pradesh state on the northwest. The native name of Garhwal was 'Kedarkhand,' meaning 'The land of God.' The Katyuris are the earliest recorded reigning dynasty in Garhwal. Uttarakhand's Katyuri Raja (Kumaon and Garhwal). According to the oldest legends, Joshimath Katyuris' domain in Garhwal covered all of Rohilkhand, from the snows to the plains, and from Satluj to Gandaki. According to tradition, the Raj started at Joshimath, which is in the north, close to Badrinath. After that, they moved to the Katyur Valley in Almora district, where they found the city of Kartikapura.",
+          "concept": "Jalaj XRA is a homestay and livelihood center committed to giving guests a genuine regional cultural experience that highlights the richness of local customs. Serving as a cultural center, the homestay promotes community involvement and teaches visitors about traditional ways of life with sustainable practices. Jalaj XRA offers guests an amazing experience in a setting that represents the simplicity of rural life.",
+          "activity": [
+            "Jalaj XRA, a homestay and livelihood center, offers diverse activities for guests to immerse themselves in the local culture.",
+            "In addition to being a homestay, Jalaj XRA actively participates in cleanliness drives and awareness programs, contributing to the local community's well-being."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 270km)",
+            "railwayStation": "Rishikesh Railway Station (approximately 250km)",
+            "byRoad": "Conveniently connected through well-maintained roads, ensuring easy access to the town of Joshimath."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Aali",
+        "description": " Awareness & Sale Point",
+        "place": "Matli, Uttarkashi, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1l5MJusxgxdLYHMzPs6XU9gI9mrdSO1RA", 
+        "coords": [78.38162500000, 30.74072000000], 
+        "details": {
+          "intro": "Jalaj Aali is located at Matli village in Uttarkashi district of Uttarakhand, an Awareness and Sale Point run by women Ganga Praharis. Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony, and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Uttarkashi, a meditational ground of sages as mentioned in the 'Skand Purana,' is blessed with a bounty of natural resources in their purest form. The village, located near the Gangotri glacier—the origin of the Ganga river—is considered sacred, and people regard the Ganga as a family member. The name Aali refers to the 'friends of Ganga' in the local dialect. Jalaj Aali symbolizes women empowerment through livelihood interventions, including promotion of natural farming and value addition of end products. The focus is primarily on promoting millet-based products.",
+          "concept": "Jalaj Aali is linked with a revived traditional Gharat or Water mill situated in the neighbouring Ganeshpur village, from which the Ganga Praharis buy locally ground flour. This flour retains the nutritional property, especially roughage. Efforts are being made to link this unit to the National Rural Livelihood Mission, with the support of the district administration. The Ganga Praharis engage in conservation activities for aquatic species, creating mass awareness while promoting traditional food grains like millets. Additionally, Jalaj Aali serves as a hub for bird-watching trips, with local community members being trained as bird guides.",
+          "activity": [
+            "Firsthand experience of visiting a sales point run by women Ganga Praharis, featuring counters for Ganga Prahari products such as millet-based cookies, laddus, and mili kurkure.",
+            "All products from the various regions of the Ganga basin, prepared by women Ganga Praharis, are available at the sales point.",
+            "A walk to the traditional water mill, or gharat, in Ganeshpur village offers a unique experience for visitors."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 160km)",
+            "railwayStation": "Dehradun (approximately 133km) and Haridwar (approximately 181km)",
+            "byRoad": "Jalaj Aali is accessible from Haridwar and Dehradun via Rishikesh, as well as via Mussoorie town. Haridwar is approximately 200km by road, and Dehradun is 220km via Rishikesh."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Abhyaran",
+        "description": " Awareness & Sale Point",
+        "place": "Pilibhit Tiger Reserve, Pilibhit, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/10QZnKWi_jySnreERSZCKYXT8W1MBgGkV", 
+        "coords": [80.03186600000, 28.70088300000], 
+        "details": {
+          "intro": "Jalaj Abhyaran is located at Pilibhit Tiger Reserve in Pilibhit District, Uttar Pradesh. This ecotourism model falls on the Terai Arc Landscape and is close to the India-Nepal border. Uttar Pradesh is home to the Pilibhit Tiger Reserve, a crucial sanctuary for wildlife conservation, covering a vast area of pristine wilderness dedicated to the protection and preservation of the endangered Bengal tiger, alongside diverse flora and fauna. The state has been historically recognized for its rich cultural heritage, and the land of Pilibhit serves as an eco-sensitive region fostering wildlife conservation.",
+          "concept": "Jalaj Abhyaran is a souvenir shop aimed at creating livelihood opportunities for local residents while raising awareness about the vital role wildlife plays in our ecosystem. Communities residing along the river Gomti are trained to produce articles that are sold in the shop. Jalaj Abhyaran functions as a symbiotic linkage between the river and the people, promoting market linkages that ensure the sustainability of local livelihoods and reduce dependency on potentially hazardous activities for the river ecosystem. It also serves as a center for creating societal awareness about biodiversity conservation in the Ganga river basin.",
+          "activity": [
+            "Jalaj Abhyaran promotes the local culture of Pilibhit, famous for its handmade best-quality bamboo flutes.",
+            "Ecotourism is promoted with jungle safaris in Pilibhit Tiger Reserve.",
+            "A village walk is conducted for visitors, where they can experience the local culture and learn about handmade and upcycled products."
+          ],
+          "howToReach": {
+            "airport": "Pantnagar Airport, Uttarakhand via IGI Delhi Airport (approximately 108.4km from the Tiger Reserve)",
+            "railwayStation": "Pilibhit Junction (approximately 40km from the Tiger Reserve)",
+            "byRoad": "The distance between Pilibhit, Uttar Pradesh, and Bareilly by road is approximately 50km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Airawati",
+        "description": "Awareness & Sale Point",
+        "place": "Shaheed Ashfaq Ullah Khan Prani Udyan, Gorakhpur, Uttar Pradesh",
+        "image": "https://example.com/image.jpg",
+        "coords": [83.40767700000, 26.71354900000], 
+        "details": {
+          "intro": "Jalaj Airawati is located at Shaheed Ashfaq Ullah Khan Prani Udyan in Gorakhpur, Uttar Pradesh. This site offers an opportunity to connect with nature, learn about wildlife conservation, and spend a day amidst the diverse flora and fauna of the region. Uttar Pradesh, in the Vedic Age, was known as Brahmarshi Desha or Madhya Desha. This sacred land has been the birthplace of Lord Rama in Ayodhya, and Lord Krishna and Lord Parshuram in Mathura. It has also been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state is home to some of India's holiest cities for Hindus, including Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur, as well as significant Buddhist sites like Kushinagar and Sarnath. The Gorakhpur Zoological Park, a prominent conservation and tourism site in Purvanchal, is located near Ramgarh Tal in Gorakhpur, Uttar Pradesh. Covering 121.342 acres of marsh and woodland areas, it is a top-tier zoological park.",
+          "concept": "By utilizing the natural and cultural resources of the Gorakhpur Zoological Park, Jalaj Airawati aims to act as a catalyst for inclusive and sustainable economic growth in the surrounding area. It seeks to promote responsible tourism and environmental protection while creating both direct and indirect livelihood opportunities. The park houses a wide variety of species, including Asiatic lions, tigers, rhinoceroses, numerous reptiles, and birds, with a strong emphasis on wildlife protection and ecological balance. To ensure the welfare of the animals, the park offers state-of-the-art facilities, including a veterinary center, quarantine facilities, and high-tech security measures. The park serves as a valuable source of fresh air for Gorakhpur city and offers a range of activities for tourists, providing both educational and enjoyable experiences.",
+          "activity": [
+            "Jalaj Airawati focuses on increasing ecotourism, raising awareness among the locals, and enhancing public understanding of the importance of the Gorakhpur zoo as a natural habitat and its biodiversity conservation through the sale point.",
+            "Jalaj Airawati organizes workshops for local residents to enhance their skills in areas such as hospitality, tourism, and conservation.",
+            "Training procedures are offered for local craftsmen and craftspersons to create souvenirs, handicrafts, and artwork.",
+            "Jalaj Airawati emphasizes cleaning campaigns and plantation drives."
+          ],
+          "howToReach": {
+            "airport": "Gorakhpur Airport (approx. 15km away)",
+            "railwayStation": "Gorakhpur Junction (approx. 9km away)",
+            "byRoad": "Jalaj Airawati is easily accessible by road, with well-connected routes within Gorakhpur."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Amnay",
+        "description": " Awareness & Sale Point",
+        "place": "Purba Medinipur, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1vmfS4a4oaElnXRBQM8YNUuY7k3k9sOvR",
+        "coords": [87.78742000000, 22.23406200000], 
+        "details": {
+          "intro": "Jalaj Amnay, situated in Purba Medinipur district, West Bengal, in collaboration with the Amnay Foundation, is a voluntary non-profit organization founded by social workers. The foundation aims to empower underprivileged communities in areas like agriculture, human rights, health, education, rural development, and environmental protection. West Bengal is one of the most culturally and ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centers. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda.",
+          "concept": "Jalaj Amnay, established in Purba Medinipur district, West Bengal, collaborates with the Amnay Foundation, sharing principles of empowerment, equality, inclusion, well-being, preservation, and education. Together, they uplift communities, maintain equity, preserve cultural heritage, and educate for a better future, envisioning a society where every individual leads a dignified and meaningful life, fostering flourishing and decency for all.",
+          "activity": [
+            "Jalaj Amnay enhances the skills of local communities in areas such as organic farming, fish farming, and conservation. Additionally, there are training procedures for local craftsmen and craftspersons to create souvenirs, handicrafts, and artwork.",
+            "Supporting local people in ecotourism initiatives by exhibiting their handicrafts and customs and providing their extensive knowledge of the area's flora and fauna.",
+            "Participation from local communities not only supports their way of life but also enhances their ability to protect the environment. It also emphasizes cleaning campaigns and plantation drives."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (approx. 125km away)",
+            "railwayStation": "Lavan Satyagrah Smarak Railway Station (approx. 25km away)",
+            "byBoat": "Public transport like buses are available from the village Kiyarana."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Anubhuti",
+        "description": " Awareness & Sale Point",
+        "place": "Kanpur, Uttar Pradesh",
+        "image": "https://example.com/image.jpg",
+        "coords": [80.30376700000, 26.50317700000],
+        "details": {
+          "intro": "Jalaj Anubhuti in Kanpur offers an opportunity to connect with nature, learn about wildlife conservation, and spend a day amidst the diverse flora and fauna of Uttar Pradesh. Uttar Pradesh, in the Vedic Age, was known as Brahmarshi Desha or Madhya Desha. This sacred land has been the birthplace of Lord Rama in Ayodhya, and Lord Krishna and Lord Parshuram in Mathura. It has also been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state is home to some of India's holiest cities for Hindus, including Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur, as well as significant Buddhist sites like Kushinagar and Sarnath. Kanpur, originally known as Cawnpore, is a major industrial city in central-western Uttar Pradesh, India. Established in 1207, it became a significant military and commercial hub during British rule. Now part of the upcoming Bundelkhand Industrial Development Authority (BIDA), Kanpur is the ninth-largest urban economy in India and a key financial and industrial center in North India. Situated on the Ganges River, it is renowned for its IT parks, sweets, gardens, colonial architecture, and high-quality textile, leather, and plastic goods, primarily exported to the West. One of India's oldest zoological parks, Kanpur Zoological Park, was established and first accessible to the general public on February 4, 1974, in a manmade forest.",
+          "concept": "Jalaj Anubhuti aims to act as a catalyst by utilizing the natural and cultural resources of the Kanpur zoo for inclusive and sustainable economic growth in the surrounding area. It seeks to promote responsible tourism and environmental protection while creating both direct and indirect livelihood opportunities. The park houses a wide variety of species, including leopards, Asiatic lions, rhinoceroses, spotted deer, rhesus monkeys, common civets, pythons, and Asiatic lions, with a strong emphasis on wildlife protection and ecological balance. To ensure the welfare of the animals, the park offers state-of-the-art facilities, including a veterinary center, quarantine facilities, and high-tech security measures. The park serves as a valuable source of fresh air for Kanpur city and offers a range of activities for tourists, providing both educational and enjoyable experiences.",
+          "activity": [
+            "Jalaj Anubhuti organizes workshops for local residents to enhance their skills in areas such as hospitality, tourism, and conservation.",
+            "Training procedures for local craftsmen and craftspersons are offered to create souvenirs, handicrafts, and artwork.",
+            "At Jalaj Anubhuti’s sale point, local products will be displayed with conservation and awareness messages and information about the Kanpur zoo."
+          ],
+          "howToReach": {
+            "airport": "Kanpur Airport (approximately 25km away)",
+            "railwayStation": "Kanpur Railway Station (approximately 15km away)",
+            "byRoad": "Kanpur district is well connected to roads in Uttar Pradesh."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Biswakavi",
+        "description": " Awareness & Sale point",
+        "place": "Ballavpur Wildlife Sanctuary, Birbhum, West Bengal",
+        "image": "https://example.com/image.jpg",
+        "coords": [87.66582200000, 23.68343300000],  
+        "details": {
+          "intro": "Jalaj Biswakavi is established at Ballavpur wildlife sanctuary in Birbhum district of West Bengal is based on the model of awareness and sale point. The Wildlife Sanctuary of Ballavpur situated between the Ajay and the Damodar, two mighty rivers. West Bengal is the one of the most culturally & ethnically diverse state in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centre. The land is probably one the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar and Swami Vivekananda, etc. In the past, the Birbhum district saw numerous religious and cultural movements. Rabindranath Tagore founded the Visva Bharati University in Santiniketan, which is one of the locations Birbhum is renowned for.The area celebrates a number of holidays, such as 'Poush Mela.' Often referred to as 'the land of red soil,' Birbhum is distinguished from the other West Bengal districts by its unique geography and cultural legacy.",
+          "concept": "Jalaj Biswakavi at Ballavpur wildlife santuary has an objective of awareness about conservation of Ganga and its biodiversity and preservation of the pure culture and heritage sites. With the collaboration of Ballavpur wildlife santiary’s authorities, which contributes for the wildlife conservation with awareness campaigns and with the concept of sale point which provides sustainable products made by local artiseries with eco-friendly methods.",
+          "activity": [
+            "The primary objective of Jalaj Biswakavi is to increase public awareness of the Ganga and its biodiversity.",
+            "It also emphasizes cleanliness and plantation drives.",
+            "Jalaj Ballavpur wildlife santuary also focuses onto increase ecotourism, create livelihood opportunties for locals, and increase public awareness of the importance of wildlife conservation and heritage preservation."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhas Chandra bose International airport is approximately 200km away.",
+            "railwayStation": "Bolpur railway station (6.5km approx.)",
+            "byRoad": "Jalaj Biswakavi is well connected with road from Bolpur, which is the nearest major town."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Charmanyavati",
+        "description": "Awareness & Sale Point",
+        "place": "Gharial Centre, Deori, Chambal River, Morena, Madhya Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1_Qdp4eSyxHK205zlvCF993zgCIOOUZSF",
+        "coords": [77.95950100000, 26.55628500000],  
+        "details": {
+          "intro": "Jalaj Charmanyavati is located at the Gharial Centre in Deori along the Chambal River in the Morena district of Madhya Pradesh. Madhya Pradesh is known as 'The Heart of India' because it geographically occupies a central place in the country. The area covered by the present-day Madhya Pradesh includes the area of the ancient Avanti Mahajan pada, whose capital Ujjain (also known as Avantika) arose as a major city during the Indian urbanisation in the sixth century BCE. Freedom fighter Tatya Tope led the rebellions in the northern parts of the state during the 1857 uprising. Culturally, Madhya Pradesh is incredibly rich. Three sites in Madhya Pradesh have been declared World Heritage Sites by UNESCO: the Khajuraho Group of Monuments (1986) including Devi Jagadambi temple, Khajuraho; Buddhist Monuments at Sanchi (1989) and the Rock Shelters of Bhimbetka (2003).",
+          "concept": "As the Jalaj is located in a high biodiversity area, and established in collaboration with Madhya Pradesh Forest Department, it focuses on creating awareness among local communities and engages them in the conservation of aquatic species such as dolphins, gharial, water birds, etc. This provides an opportunity to engage stakeholders including local communities in conservation. The Jalaj is linked with smaller units such as production and training units, natural farming units, and handicraft centres in nearby villages creating a self-reliant model that can contribute to the economic and ecological security of the area.",
+          "activity": [
+            "The Crocodile Centre nearby Deori, Morena is the only one of its kind in Madhya Pradesh and was recently opened to the public.",
+            "In the Chambal, the centre breeds and rehabilitates Crocodiles and Gharials."
+          ],
+          "howToReach": {
+            "airport": "Gwalior airport (50km approx.)",
+            "railwayStation": "Morena Railway Station, approximately 9.5km away.",
+            "byRoad": "Buses to nearby cities such as Gwalior, Dholpur, Agra, Jaipur, Bhind, and New Delhi are readily available from here."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Dasam",
+        "description": " Awareness & Sale Point",
+        "place": "Rampur Ghat, near Ram Mandir, Paonta Sahib, Sirmaur district, Himachal Pradesh",
+        "image": "https://example.com/image.jpg", 
+        "coords": [77.60311800000, 30.44757400000],  
+        "details": {
+          "intro": "Jalaj Dasam established at Rampur Ghat, near Ram Mandir, Paonta Sahib, Sirmour district, Himachal Pradesh. In the western Himalayas, the state of Himachal Pradesh is a place of splendour scenery that features tall, snow-capped mountains, steep gorges, densely forested valleys, big lakes, terraced farmland, and cascading streams. In fact, the state's name alludes to its location: Himachal means 'snowy slopes' (Sanskrit: hima, 'snow,' acal, 'slopes') and Pradesh means ‘state’. The Dasas tribe of tribal people were the area's first recorded inhabitants. Afterwards, Aryans arrived and blended in with the tribes. The hill chieftains later acknowledged the suzerainty of the Guptas, the Kaushans, the Mauryan empire, and the Kanuaj kings. The hill state Rajas came to some mutually beneficial agreements that regulated their relations throughout the Mughal era. Ranjit Singh conquered and incorporated numerous states during the 1800s. Following their victory over the Gorkhas, the British made contracts with various Rajas and seized their kingdoms.",
+          "concept": "Jalaj Dasam at Rampur Ghat, to establish and utilized to develop and run an aquatic species conservation knowledge cum alternate livelihood centre. Under the Jalaj Dasam, an objective of awareness about conservation of Ganga and its biodiversity and preservation of the pure culture and heritage sites. Jalaj Dasam is focused on wildlife conservation with awareness campaigns and with the concept of sale point which provides sustainable products made by local artiseries with eco-friendly methods.",
+          "activity": [
+            "Production of incense sticks and incense cone, handicraft items made from pine needles, herbal holi colors, cloth bags, jalaj exhibitions and bird watching.",
+            "The primary objective of Jalaj Dasam is to increase public awareness of the Ganga and its biodiversity.",
+            "It also emphasizes cleanliness and plantation drives.",
+            "Jalaj Dasam also focuses on increasing ecotourism, creating livelihood opportunities for locals, and increasing public awareness of the importance of wildlife conservation and heritage preservation."
+          ],
+          "howToReach": {
+            "airport": "Jollygrant airport is approximately 80km away.",
+            "railwayStation": "Dehradun railway station (55km approx.)",
+            "byRoad": "Jalaj Dasam in Paonta is well connected with road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Ganga Avlokan",
+        "description": " Awareness & Sale Point",
+        "place": "Haridwar, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1_FaWvLgWdemNWjRhUTH6sJILtQvSRjeK",
+        "coords": [78.17163900000, 29.94340000000],
+        "details": {
+          "intro": "Jalaj Ganga Avlokan is a unique initiative in Haridwar, Uttarakhand, which combines the essence of spirituality, environmental awareness, and community involvement. Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Uttarakhand, a state in northern India, is renowned for its natural beauty, spiritual significance, and rich cultural heritage. It's a region with a history deeply entwined with spirituality and the sacred Ganges river. The state has been the birthplace of numerous ancient traditions and has played a pivotal role in India's spiritual landscape. Haridwar, located in Uttarakhand, is one of the seven holiest places in Hinduism, making it a significant pilgrimage destination. Haridwar, the spiritual epicenter of Uttarakhand, is renowned for its rich history and architectural wonders. Some of its notable landmarks include the iconic Har Ki Pauri ghat, Chandi Devi Temple, Mansa Devi Temple, and many ashrams where spiritual seekers from around the world come to seek solace.",
+          "concept": "Jalaj Ganga Avlokan is essentially a ‘souvenir shop’ that promotes and markets sustainable products created by the Ganga Praharis and regional communities from various states. Cleanliness and plantation drives, as well as awareness campaigns, play a crucial role in educating people about the Ganga river basin, its aquatic biodiversity, the threats it faces, and the means to protect and conserve this lifeline at an individual level. The primary focus is on promoting Ganga Prahari products and supporting community livelihoods. The central theme revolves around community partnership in conservation by raising awareness and fostering economic opportunities. Jalaj Ganga Avlokan also provides training for the handmade sustainable products. Located in Haridwar, Jalaj Ganga Avlokan stands as a remarkable endeavor that harmonizes Ganga conservation, cultural heritage, and community engagement, offering a unique and enriching experience for visitors and locals alike.",
+          "activity": [
+            "This initiative focuses on promoting local products and handicrafts while fostering sustainability.",
+            "Cleanliness and plantation drives and awareness campaigns aim to maintain the cleanliness of the environment and promote tree planting efforts.",
+            "Training programs are designed to provide training for creating sustainable handmade crafts and products.",
+            "Bal Ganga Prahari Program: This program educates and involves the younger generation in the preservation of the Ganges."
+          ],
+          "howToReach": {
+            "airport": "Jalaj Ganga Avlokan is located approximately 60km from the Dehradun airport, Jolly Grant.",
+            "railwayStation": "Haridwar Junction, one of the major railway stations in Uttarakhand, is just 2.5 kilometers from Har Ki Pauri.",
+            "byRoad": "Haridwar is well-connected by road to major cities in Uttarakhand and neighboring states, making it easily accessible for those traveling by road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Kanan",
+        "description": " Awareness & Sale Point",
+        "place": "Chorgaliya, near Haldwani, Nainital, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1mLUFo4l_c-qM5vKU8H7PcNw-tVy5E0xv",
+        "coords": [79.70560500000, 29.13153900000], 
+        "details": {
+          "intro": "Jalaj Kanan at Chorgaliya near Haldwani (Nainital) is a vibrant souvenir shop that captures the essence of the region through its cultural art known as 'Aipan'. Devbhoomi Uttarkhand, an abode of God and Goddesses, a region of peace, harmony and tranquillity, has been the timeless destination of sages, warriors, travellers, excursionists, and knowledge seekers. Nainital is a quaint hill station in the state of Uttarakhand, often called the 'Lake District of India'. Located in the outer Himalayan foothills of Kumaon, Nainital is well-known for its calm lakes, beautiful scenery, and comfortable weather. Surrounded by verdant hills, the stunning Naini Lake serves as the focal point of the town. Kumaon, known as Manaskhand in the past and subsequently Kurmanchal, has been controlled by several Hindu dynasties throughout history, including the Katyuris and the Chands. The administrative hub of the Indian Army is the mountainous town of Nainital, which is also home to the Uttarakhand High Court and the famed Kumaon Regiment. The word 'Kumaon' is thought to have come from the word 'Kurmanchal,' denoting the land of the Kurmavatar, the tortoise-incarnation of Lord Vishnu, the Hindu god of preservation. This association led to the region's name.",
+          "concept": "Chorgaliya aims to enhance the cultural and natural heritage of Kumaon (division) by providing visitors with handcrafted souvenirs that reflect the local artistry and traditions. The shop serves as a platform for local artisans to showcase their skills, contributing to the preservation of traditional craftsmanship. Chorgaliya offers a diverse range of souvenirs, including hand-painted bags, purses, file covers, and handkerchiefs. Each product is carefully crafted to embody the spirit of Kumaon, making it a perfect keepsake for visitors and a source of sustainable income for the local artisans.",
+          "activity": [
+            "Visitors to Chorgaliya can engage in interactive sessions with artisans, gaining insights into the traditional techniques used in crafting these souvenirs.",
+            "Workshops and demonstrations are organized to promote awareness about the rich cultural heritage of Kumaon division."
+          ],
+          "howToReach": {
+            "airport": "Pantnagar Airport (approximately 51km)",
+            "railwayStation": "Haldwani Railway Station (approximately 26km)",
+            "byRoad": "Accessible via well-connected roads from Haldwani, Nainital, and other nearby areas."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Nisarga",
+        "description": "Awareness & Sale Point",
+        "place": "Zoological Garden Alipore, Kolkata, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1CTV-vgFynEEwiTf7DA8gpakhGlZTHD3T",
+        "coords": [88.33162700000, 22.53737300000],  
+        "details": {
+          "intro": "Jalaj Nisarga is an Awareness & sale point at the Zoological Garden Alipore, Kolkata, West Bengal. West Bengal is one of the most culturally and ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in culture since ages. West Bengal is the cradle of many renowned figures such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, among others.",
+          "concept": "Jalaj Nisarga is a key Jalaj site with heavy foot traffic, which increases during weekends in peak tourist seasons. Families of the Ganga Praharis from 14 districts in the state are linked with the site. Alipore Zoo displays info-graphic panels and 3D life-size models of key aquatic species like the Gangetic Dolphin and Smooth Coated Otter, highlighting their ecological importance in maintaining the health of the Ganga River basin. It also serves as a sale center for Ganga Prahari products from various Jalaj locations across the state. Visitors are sensitized by the Ganga Praharis about the numerous aquatic fauna, including the critically endangered Northern River Terrapin (Batagurbaska), a species with a single living colony. The sale corner here is a portable shop next to the Royal Bengal tiger enclosure, providing a direct link to products made by women Ganga Praharis from remote islands of Sunderban, Diamond Harbour in 24 Parganas (South), and Farrakka, who are directly dependent on the natural resources.",
+          "activity": [
+            "Trained women Ganga Praharis actively prepare indigenous products from locally available raw materials like jute fibre and cotton cloth with intricate hand-painted designs such as Batik prints.",
+            "Customized file folders, traditional jewellery, Utario (scarf), sarees, etc., are created to raise mass awareness about threatened freshwater species among local and international tourists."
+          ],
+          "howToReach": {
+            "airport": "Kolkata Airport (approximately 23.2 km away)",
+            "metroStation": "Netaji Bhavan (approximately 2 km away)",
+            "byRoad": "The Alipore Zoo is located on Alipore road, which connects Zerrut Bridge to Belvedre. The nearest bus station is Ekbalpur, approximately 2 km away."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Panchajannya",
+        "description": "Awareness & Sale Point",
+        "place": "Mayapur, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/18td_dt7Yfpdue4Q0cgJCf2qC3A2vBnp0",
+        "coords": [88.37098900000, 23.42430800000], 
+        "details": {
+          "intro": "Jalaj Panchajannya is established on the campus of the global headquarters of the International Society for Krishna Consciousness (ISKCON) at Mayapur district, West Bengal. West Bengal is one of the most culturally and ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in culture since ages. West Bengal is the cradle of many renowned figures such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, among others.",
+          "concept": "This Jalaj is an awareness corner that displays information on the mentioned charismatic species and functions as a sale point in the form of a shop. During the festival season, a 'Haat' will be set up at ISKCON Ganga Ghat along the Hooghly River for the sale of Ganga Prahari products from West Bengal and other Ganga basin states. The stretch of the Ganga River flowing along ISKCON hosts frequent sightings of aquatic species such as the Gangetic dolphin, freshwater turtles, etc. Jalaj Panchajannya represents the cultural and ecological value of the Ganga River ecosystem and introduces people and visitors to the spiritual aspects of this area.",
+          "activity": [
+            "This Jalaj site focuses on biodiversity watch, Bal Ganga Prahari Programme, livelihood trainings, production unit, village tours, etc.",
+            "A programme called 'Ghat par Haat' is held to bring together people from all corners of West Bengal, giving locals and tourists an opportunity to learn about traditional culture, folklores, artifacts, food, music, etc."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhash Chandra Bose International Airport in Kolkata (approximately 117 km from Mayapur)",
+            "railwayStation": "Howrah Junction Railway Station and Nabadwip Dham Railway Station (approximately 30 km from Mayapur)",
+            "byRoad": "The nearest bus station is Krishnanagar (approximately 20 km away)."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Ram Chiraiya",
+        "description": "Jalaj Safari and Awareness & Sale Point",
+        "place": "Katihar, Bihar",
+        "image": "https://example.com/image.jpg",
+        "coords": [87.68976000000, 25.37201800000],  
+        "details": {
+          "intro": "Jalaj Ram Chiraiya has been established near Gogabil lake in Katihar district, Bihar. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' It has been an abode for many rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya Empire, as well as one of the world's most widely adhered-to religions: Buddhism. The state is renowned for several traditional styles of painting, including Mithila painting (or Madhubani art) and Manjusha Painting. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and many other ancient monuments.",
+          "concept": "Jalaj Ram Chiraiya is being developed as a holistic model, featuring a homestay, awareness center, and livelihood training and production site. In 2017, the Indian Birds Conservation Network declared Gogabil as an IBA (Important Bird Area). Located along the Gogabil lake, which is being developed to offer the best services to its visitors, this Jalaj will act as a focal point to create awareness among local communities and strengthen local livelihoods by linking them to conservation initiatives. It holds the potential to offer immense livelihood opportunities to the local community, helping them live sustainably.",
+          "activity": [
+            "Jalaj Ram Chiraiya will conduct biodiversity watch, village tours, cultural interactions, folk music, and other activities to create awareness. Local people will be trained to conduct these activities.",
+            "A boat safari will be conducted in Gogabil Lake, an ox-bow lake and one of the largest wetlands in Bihar, declared as the first 'Community Reserve' of the state. The lake also attracts thousands of migratory birds during the winter season."
+          ],
+          "howToReach": {
+            "airport": "JP Narayan Airport, Patna (approximately 340 km from Gogabil Jheel)",
+            "railwayStation": "Katihar Junction (approximately 30 km from Gogabil Jheel)",
+            "byRoad": "The distance between Gogabil Lake and Katihar bus station is approximately 30 km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Shilibhoot",
+        "description": " Awareness & Sale Point",
+        "place": "Sahibganj, Jharkhand",
+        "image": "https://example.com/image.jpg",
+        "coords": [87.50016500000, 25.15139300000], 
+        "details": {
+          "intro": "Jalaj Shilibhoot is located in Mandro's Fossil Park, a globally recognized site of geological significance. Jharkhand in various Indo-Aryan languages means 'forest land'. In the ancient period, in the Mahabharata, the region was referred to as Kark Khand due to its location near Kark Rekha i.e., Tropic of Cancer. The region was ruled by many empires and dynasties including Nanda, Maurya, and Gupta during ancient times. The land has seen maximum numbers of tribal revolts during the rule of the British East India Company. The state is famous for the Sohrai and Khovar painting, a mural art form practiced by women. Parasnath, Baidyanath Dham, Maa Dewri Temple, and Chhinnamasta Temple are major religious places. Itkhori is a holy place for Hindus, Buddhists, and Jains. It is believed to be the place from where Gautama Buddha started his journey for Bodh Gaya.",
+          "concept": "Jalaj Shilibhoot has an objective of awareness about conservation of Ganga and its biodiversity and preservation of pure culture and heritage sites. In collaboration with Mandro fossil park authorities, it facilitates visitors with an auditorium and a museum, both of which are currently accessible to the general public. Along with a mini-laboratory, there is also a place for students and researchers to relax and study. Built as an eco-tourism complex, the entire region also takes sustainability into consideration. A rest house built among verdant trees is one of the park's additional amenities. Additionally, only battery-operated autorickshaws will be permitted inside to maintain a pollution-free atmosphere.",
+          "activity": [
+            "The primary objective of Jalaj Shilibhoot is to increase public awareness of the Ganga and its biodiversity.",
+            "It also emphasizes cleaning and plantation drives.",
+            "Jalaj Shilibhoot also focuses on increasing ecotourism, creating livelihood opportunities for locals, and increasing public awareness of the importance of fossil preservation."
+          ],
+          "howToReach": {
+            "airport": "Ranchi airport (398 km approx.) and Patna Airport (324 km).",
+            "railwayStation": "Mirzachowki railway station (25 km approx.)",
+            "byRoad": "Sahibganj district is connected to Ranchi in Jharkhand by National Highway No. 33. Sahibganj to Mandro (Jharkhand) is 43 km away via Dumka Sahebganj Road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Sundari",
+        "description": "Livelihood Centre and Awareness & Sale Point",
+        "place": "Sajnekhali, South 24 Parganas, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1RrlsWLXoj-NXS9Vpt2n0DxUxVoGgWclM",
+        "coords": [88.82955400000, 22.12421100000], 
+        "details": {
+          "intro": "Jalaj Sundari is an integrated model established in the Sajnekhali range of Sunderban Tiger Reserve in South 24 Parganas district of West Bengal. It is located at the world's largest delta which is a UNESCO World Heritage Site. West Bengal is the one of the most culturally & ethnically diverse state in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar and Swami Vivekananda, etc.",
+          "concept": "Jalaj Sundari functions as livelihood centre and awareness & sale point. Sundari means mangrove represents the close linkages of the mangrove ecosystem with the economic and cultural structure of people. Jalaj Sundari is an initiative to involve local people in conservation and divert the benefits of conservation to them. Jalaj Sundari serves as a sale point for the handicraft products.",
+          "activity": [
+            "Handicrafts made from jute fiber, dress material prepared with Batik print, Kantha stitch & office utility items like jute folders and bags, etc. made by Ganga Praharis belonging to indigenous tribes and local communities residing in islands of Sunderban are displayed at awareness & sale point of Jalaj Sundari.",
+            "One can site the magnificent Royal Bengal Tiger at Sunderbans Wildlife Sanctuary and Tiger Reserve, the only mangrove habitat of Royal Bengal Tiger and the Critically Endangered turtle species Batagur Baska and home to the second largest population of the saltwater crocodile.",
+            "The Sajnekhali bird sanctuary is accessible by ferry from Gosaba."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhash Chandra International Airport, 105km from Sajnekhali.",
+            "railwayStation": "Approximately 45km distance from Canning railway station.",
+            "byRoad": "Sajnekhali is approximately 130km from Kolkata via road."
+          }
+        }
+      },      
+      {
+        "name": "Jalaj Jamnuja",
+        "description": "Awareness & Sale Point",
+        "place": "Kalesar, Yamunanagar, Haryana",
+        "image": "https://example.com/image.jpg",
+        "coords": [77.42186100000, 30.42914200000],
+        "details": {
+          "intro": "Jalaj Jamnuja is located in the Yamunanagar district of Haryana within the premises of Kaleshar Mahadev Math, Kaleshar. It serves as a production, sale, and awareness center. Haryana's name is thought to have come from the combination of the words 'Hari' (Lord Vishnu) and 'Ayana' (abode). While the Mahabharata and Kurukshetra War are essential to Haryana's historical and cultural identity, the statement that the Bhagavad Gita was born in Haryana is more of a religious and mythological belief. Haryana’s agriculture played a significant role in the Green Revolution. The spiritual institution Kalesar Mahadev Math, known for its calm surroundings and cultural significance, stands as an important historic place.",
+          "concept": "Jalaj Jamnuja is established in the premises of Kaleshar Mahadev Math, Kaleshar. It is a representation of the river's name, Jamna or Jamuna in the local dialect. In two ways, Jalaj Jamnuja is intended to link local livelihood with river conservation: as a production and sale outlet to support local communities, and as an awareness center to raise awareness among devotees and visitors regarding the conservation of rivers and their aquatic biodiversity. The site is intended to foster people's cultural, spiritual, and relational values for the Yamuna River.",
+          "activity": [
+            "The Ganga Praharis, trained in agarbatti and dhoopbatti making, use waste flowers, which otherwise are dumped in the river, to produce agarbatti and dhoopbatti in four natural fragrances.",
+            "The Ganga Praharis are also trained in preparing laddoo prasad using locally produced traditional crops like millets, makki ka atta (maize flour), and jaggery.",
+            "Jalaj Jamnuja is being developed as an awareness center where people can obtain information on the Yamuna River and its biodiversity through awareness panels placed in the temple premise."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 93km) and Chandigarh Airport (117km) from Kalesar.",
+            "railwayStation": "Yamunanagar Jagadhri railway station (approximately 44km away from Kalesar).",
+            "byRoad": "Public and private transport are readily available from Yamunanagar (Haryana)."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Kendraj",
+        "description": "Awareness & Sale Point",
+        "place": "Wildlife Institute of India, Dehradun, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1KXoPhRv57uHEpM65WYHS2iuSkSAR6aaZ",
+        "coords": [77.97353000000, 30.28367400000],
+        "details": {
+          "intro": "Jalaj Kendraj is located at the Wildlife Institute of India, Dehradun, Uttarakhand. Dehradun, known as the Abode of Drona, is a region steeped in history and culture. Located between the Asan and Song Rivers, Dehradun offers a stunning view of the Himalayan mountains and serves as a major hub for both historical significance and natural beauty. It was once taken over by the British and was strategically important for the Garhwal kings. The history of Dehradun is also linked to Sri Guru Ram Rai Ji, who established his 'Dera' in the Doon Valley in 1676, which led to the development of modern-day Dehradun. The city is surrounded by the peaceful and harmonious aura of Devbhoomi Uttarakhand, an abode of Gods and Goddesses. Jalaj Kendraj connects all the functional Jalaj units and acts as a think-tank. It serves as a display, store, and sale point.",
+          "concept": "Based in the headquarters, Jalaj Kendraj acts as the focal point for all our Jalaj units functional in the Ganga River Basin. The word “Kendraj” in literal terms means the center of origin. Justifying its name, it connects all the functional Jalaj units, possible conception of all possible Jalaj units in the river Ganga and its tributaries as well as their efficient functioning. Encompassing all the activities under the umbrella of awareness, biodiversity conservation and creating a symbiotic linkage with the livelihood activities of local communities to reduce dependency on the rivers for sustainable development. Jalaj Kendraj aims to empower the local community with knowledge and skills for sustainable development. Additionally, it promotes eco-friendly practices and provides a platform for cultural enrichment. Jalaj Kendraj is the unit to the region's commitment to preserving its cultural heritage while promoting sustainable practices and livelihood development.",
+          "activity": [
+            "The center hosts workshops on traditional art, regional edible and personal care products, offering insights into the vibrant regional culture. Visitors can engage with regional arts and crafts.",
+            "Jalaj Kendraj actively engages in conservation activities, such as tree plantation and cleanliness drives, as well as awareness campaigns to safeguard the environment and promote sustainable practices.",
+            "Training programs are conducted for regional artisans to create handicrafts and artworks that reflect the region's cultural heritage, thereby preserving traditional craftsmanship and fostering livelihood opportunities."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport in Dehradun, approximately 35km away, connects the city to major domestic airports.",
+            "railwayStation": "Dehradun railway station, around 10km away, provides good rail connectivity with other parts of India.",
+            "byRoad": "Dehradun is well-connected by road to nearby cities and towns, making it easily accessible for visitors traveling by public transport."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Aalay",
+        "description": " Homestay and Health & Wellness Centre",
+        "place": "Kanda Village, near Champawat district, Uttarakhand",
+        "image": "https://lh3.googleusercontent.com/d/1TtLcYjC_gRZKv10VH3rK1fbWEWNR_iJN",
+        "coords": [80.12411200000, 29.32968100000],
+        "details": {
+          "intro": "Jalaj Aalay is located in Kanda village, near Champawat district, Uttarakhand. Devbhoomi Uttarakhand, an abode of God and Goddesses, has been the timeless destination of sages, warriors, travelers, excursionists, and knowledge seekers. Kumaon, known as Manaskhand and later Kurmanchal, has been governed by several Hindu dynasties, including the Katyuris and the Chands. The region’s name, Kumaon, is linked to the Kurmavatar, the tortoise-incarnation of Lord Vishnu. The administrative hub of the Indian Army, Nainital, is also home to the Uttarakhand High Court and the Kumaon Regiment. Jalaj Aalay is an integrated model dedicated to preserving the cultural and traditional ethics of the Kumaon region. It is a diverse unit offering visitors an authentic cultural experience and a connection to the local community.",
+          "concept": "Jalaj Aalay offers visitors an authentic cultural experience, emphasizing the warmth of homely comforts and the richness of local traditions. This unique homestay serves as a cultural haven where guests can engage with the community, learn about traditional practices, and savor local cuisine. The ambiance of Jalaj Aalay captures the simplicity and beauty of rural life, providing comfortable rooms that blend traditional and modern aesthetics. In addition to the homestay, Jalaj Aalay features the Jalaj Health and Wellness Centre, run by the local women of Kanda village. This initiative promotes holistic well-being, offering guests a range of wellness activities and therapies that reflect the region's rich traditions. It is the ideal choice for a peaceful retreat that supports local health practices and community empowerment. Guests can immerse themselves in the culture through local products enriched with herbs and traditional remedies, participate in yoga and meditation sessions, and take home a piece of Kanda's heritage as a meaningful souvenir.",
+          "activity": [
+            "Jalaj Aalay organizes various activities to help guests immerse themselves in the local culture, including Jhora dance in traditional attire and cultural songs.",
+            "Visitors can participate in culinary and Aipan art sessions, guided village walks, and interact with locals. The homestay also offers birdwatching, stargazing, and more.",
+            "Guests can experience organic farming practices, millet and herb cultivation in the Himalayan region for wellness products, and participate in yoga and meditation. They can take these products home for daily use, promoting healthy lifestyles and a meaningful connection with nature."
+          ],
+          "howToReach": {
+            "airport": "Pantnagar Airport (approximately 200 km)",
+            "railwayStation": "Tanakpur Railway Station (approximately 80km)",
+            "byRoad": "Well-connected through roads from Champawat, Pithoragarh, and other nearby areas."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Amala",
+        "description": " Jalaj Safari, Livelihood Centre and Awareness & Sale Point",
+        "place": "Bhagalpur District, Bihar",
+        "image": "https://lh3.googleusercontent.com/d/1gc9KK_04S7Go_7AMoDk_nLWtiiISJwhv",
+        "coords": [86.93211800000, 25.24354700000],
+        "details": {
+          "intro": "Jalaj Amala is located in Bhagalpur district, Bihar. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' The region has served as an abode for many rulers from ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, and Bihar also gave rise to Buddhism, one of the world’s most widely adhered-to religions. The state is renowned for its traditional art forms such as Mithila painting (Madhubani art) and Manjusha painting, mainly practiced by women and passed down through generations. Bihar is also home to two UNESCO World Heritage Sites and several ancient monuments. Jalaj Amala functions as an integrated model connecting livelihood, conservation, and the cultural value of the Ganga River while focusing on awareness and the reduction of single-use plastics.",
+          "concept": "Jalaj Amala functions as Jalaj Safari, Livelihood Centre and Awareness & Sale Point. It is operated by two Ganga Prahari Societies; Ganga Prahari Nature Conservation Society and Srishti-Ganga Prahari Environment Welfare Society, located at various points including Naugachhia, Barari Ghat, and Gohri Tola. Through Jalaj Amala, the local community is being trained to develop small production units to enhance their livelihood options. The initiative combines environmental awareness, cultural preservation, and sustainable livelihoods.",
+          "activity": [
+            "Bhagalpur is known as the Silk City and is famous for Madhubani and Manjusha art.",
+            "The Ganga Praharis are skilled in making bamboo products such as bamboo mugs, bamboo models of aquatic species (crocodiles, Gangetic dolphins, turtles), pen stands, trays, bottles, cloth bags, jewelry, and more.",
+            "Key attractions of Jalaj Amala include boat safaris, dolphin sightings at Vikramshila Gangetic Dolphin Sanctuary (India's first dolphin sanctuary), bird watching, and biodiversity monitoring.",
+            "The trained Ganga Praharis also prepare and sell compost to reduce the usage of chemical fertilizers."
+          ],
+          "howToReach": {
+            "airport": "Deoghar Airport (126km away) and JP Narayan Airport, Patna (245km away)",
+            "railwayStation": "Bhagalpur Junction (27km from Naugachhia by road)",
+            "byRoad": "Public and private transport are readily available from Deogarh and Patna."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Ashoka",
+        "description": "Livelihood Centre",
+        "place": "Patna Sahib, Bihar",
+        "image": "https://example.com/image.jpg",
+        "coords": [85.226361, 25.59125],
+        "details": {
+          "intro": "Jalaj Ashoka is located in the historic city of Patna Sahib, Bihar. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' Bihar has been an abode for many rulers throughout history. Magadha, the ancient kingdom, emerged as India's first empire under the Maurya dynasty, and it was here that Buddhism, one of the world's largest religions, was born. Bihar is also known for its traditional art forms such as Mithila (Madhubani) painting and Manjusha art, which are passed down from generation to generation, mainly by women. Bihar is home to two UNESCO World Heritage Sites: the Mahabodhi Temple in Bodh Gaya, where the Buddha attained enlightenment, and Nalanda Mahavihara, one of the oldest universities in the world. Patna Sahib, where the city is located, has deep historical and spiritual significance as it is along the Ganges River, a sacred site for Hindus, Buddhists, and Sikhs. The city is a major pilgrimage destination, further enriching its heritage. Jalaj Ashoka seeks to preserve the city's cultural and environmental heritage while empowering the local community.",
+          "concept": "Jalaj Ashoka is a dynamic initiative that aims to empower the local community, promote livelihood development, and preserve the cultural and historical heritage of Patna Sahib. Situated along the sacred Ganges River, Patna Sahib holds profound historical and spiritual significance, making it an iconic pilgrimage destination. Jalaj Ashoka fosters the preservation of traditional art forms and craftsmanship, providing opportunities for economic growth while promoting the city's artistic and historical treasures. The initiative stands as a testament to the diverse and enduring cultural heritage of Patna Sahib, making it a unique destination for visitors.",
+          "activity": [
+            "Jalaj Ashoka operates as an Awareness and Sale point and production unit for traditional theme-based Tikuli art, paintings, decorative products, and natural handmade soap.",
+            "It also offers training in traditional Tikuli art and painting."
+          ],
+          "howToReach": {
+            "airport": "Jay Prakash Narayan International Airport in Patna, ensuring easy accessibility for air travelers.",
+            "railwayStation": "Patna Junction, one of Bihar's major railway stations, offers efficient rail connectivity.",
+            "byRoad": "Well-maintained road networks connect Patna Sahib to various parts of the country, making it a convenient destination for history and cultural enthusiasts."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Ganga Viharini",
+        "description": " Jalaj Safari and Awareness & Sale Point",
+        "place": "Bijnor Barrage, Bijnor, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1CLwKRxYjFwJ1trgMr1CMgVph1FXFmqmZ", 
+        "coords": [78.04173300000, 29.37267600000], 
+        "details": {
+          "intro": "Jalaj Ganga Viharini is an integrated model located at Bijnor Barrage, Uttar Pradesh, adjacent to Haiderpur Wetland and Hastinapur Wildlife Sanctuary. It offers a Jalaj Safari experience, showcasing the ecological wealth of the middle Ganga River. Uttar Pradesh in the Vedic Age was recognized as Brahmarshi Desha or Madhya Desha. This pious land has been the birthplace of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in ancient and medieval times and the site of origin of the First War of Independence in 1857. The state includes India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Bijnor occupies the northwest corner of the Moradabad Division, historically known as Rohilkhand or Bareilly region, with the western boundary formed by the river Ganges, beyond which lie the districts of Haridwar, Saharanpur, Muzaffarnagar, and Meerut.",
+          "concept": "The trained Ganga Prahari spread awareness among visitors about the importance of the aquatic biodiversity of the river Ganga. Jalaj Ganga Viharini links conservation with local livelihoods and promotes people’s participation in biodiversity conservation. In addition to the Safari, the workforce operates an Awareness and Sale Point to enhance livelihoods, bringing local people to the forefront of conservation activities.",
+          "activity": [
+            "Haiderpur Wetland, a UNESCO Ramsar site, and Hastinapur Wildlife Sanctuary are home to numerous species of birds and animals, including migratory birds, gharials, muggers, Gangetic river dolphins, and turtle species.",
+            "Dolphin sighting is the main attraction for tourists.",
+            "Local craftsmen associated with Jalaj are skilled at making bags, tie and dye dupattas, cushion covers, stoles, mats, baskets, etc."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (91kms from the destination) with regular flights from Delhi Airport and other major airports in the country.",
+            "railwayStation": "Muzaffarnagar Railway Station (42km from Bijnor).",
+            "byRoad": "The distance between Bijnor, Uttar Pradesh, and Delhi by road is approximately 180km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Kasturi",
+        "description": " Jalaj Safari & Livelihood Centre",
+        "place": "Mehandi Ghat, Kannauj, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1y2lTCvXmBxpcccv6deRQDCnIyFTXM5tj", 
+        "coords": [79.96976100000, 27.01156300000], 
+        "details": {
+          "intro": "Jalaj Kasturi is an integrated model of Jalaj Safari and Livelihood Centre to promote ecotourism and awareness among locals and visitors at Mehandi Ghat, Kannauj District, Uttar Pradesh. Uttar Pradesh in the Vedic Age was recognized as Brahmarshi Desha or Madhya Desha. This pious land has been the birthplace of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in ancient and medieval times and the site of origin of the First War of Independence in 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Kannauj is famous for its temples and perfume production, earning it the title of the ‘city of perfumes’. During the time of King Harsha, it was an important kingdom of India.",
+          "concept": "Jalaj Kasturi operates as a Jalaj Safari and Livelihood Centre at Mehandi Ghat, also known as Mahadevi Ghat, where the ashes of the renowned poet Mahadevi Verma Ji were immersed. Located on the banks of the Ganga River, boatmen at the site are trained to educate tourists about the importance of the river's aquatic biodiversity. Ganga Prahari prepare incense sticks using locally available materials without incurring financial burden. Continuous efforts are made for Ganga rejuvenation and biodiversity conservation by involving the local community through Jalaj Kasturi.",
+          "activity": [
+            "Jalaj Kasturi promotes sustainable tourism through Jalaj Safari.",
+            "The city is famous for its perfume production, and similar fragrances are used to prepare incense sticks.",
+            "The area lies on the fertile Gangetic plain, offering a scenic view of large stretches of agricultural land."
+          ],
+          "howToReach": {
+            "airport": "Lucknow Airport via Delhi and other major airports.",
+            "railwayStation": "Kanpur Central Railway Station (approximately 85km away).",
+            "byRoad": "The distance between Mehandi Ghat, Kannauj, and the nearest bus station is approximately 10km by road."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Narayani",
+        "description": " Jalaj Safari, Livelihood Centre and Health & Wellness Centre",
+        "place": "Domri, Varanasi, Uttar Pradesh",
+        "image": "https://example.com/image.jpg", 
+        "coords": [83.05362500000, 25.36170300000], 
+        "details": {
+          "intro": "Jalaj Narayani is an integrated model located in Domri, a small village/hamlet in the Kashi Vidyapeeth Block of Varanasi, Uttar Pradesh. Uttar Pradesh in the Vedic Age was recognized as Brahmarshi Desha or Madhya Desha. This pious land has been the birthplace of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in ancient and medieval times and the site of origin of the First War of Independence in 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Varanasi lies in North India's Indo-Gangetic Plains, extremely fertile due to the Ganges River's intermittent low-level flooding. Varanasi is located between the confluences of the Varuna and Assi streams in the Ganges, approximately two miles apart.",
+          "concept": "Narayani is one of the forms of Goddess Durga, symbolizing strength and wellness. As the name suggests, Jalaj Narayani is based on the Jalaj Health and Wellness Centre, Safari, and Livelihood Centre, utilizing local and natural resources. Trained Ganga Praharis use local products to create value-added items, empowering local women groups. These women are trained in stitching clothes and running the health and wellness centre, making them economically self-reliant. The Ganga Praharis also conduct awareness and mobilization activities to encourage local people to contribute to the conservation and cleanliness of the Ganga river and its aquatic biodiversity through their Jalaj Safaris.",
+          "activity": [
+            "Ganga Praharis use their traditional craft skills to make products from silk fabric (Banarasi silk), muslin fabric, and gold and silver brocades. Training is also provided for local craftsmen to make handicrafts and edibles.",
+            "The Jalaj Narayani Centre aims to enhance the skills of local communities through the concept of a healthy lifestyle by utilizing herbal and millet products, as well as edibles, alongside conservation efforts.",
+            "On the banks of the River Ganga, visitors can experience the scenic beauty of the various ghats of Varanasi."
+          ],
+          "howToReach": {
+            "airport": "Lal Bahadur Shastri International Airport in Varanasi (26km away from Domri village).",
+            "railwayStation": "Varanasi Railway Station (5km away from Domri village).",
+            "byRoad": "Domri village is well connected to all the major railway stations in the country."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Nayachar",
+        "description": " Homestay, Jalaj Safari and Awareness & Sale Point",
+        "place": "Nayachar, Purba Medinipur, West Bengal",
+        "image": "https://lh3.googleusercontent.com/d/1CLdaIqMc3jY0YTc0c6q4iCoz7AcbqTSB", 
+        "coords": [88.16144200000, 23.62806800000], 
+        "details": {
+          "intro": "Jalaj Nayachar is an island in the Hooghly River, located in Purba Medinipur, West Bengal, off the coast of Haldia. West Bengal is one of the most culturally and ethnically diverse states in India, with a rich history featuring a succession of Indian empires, internal squabbling, and a historical tussle between Hinduism and Buddhism. The region was a hotspot for the Indian independence movement and has remained an intellectual and artistic center in India. The state is home to renowned figures such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda. Jalaj Nayachar, situated in the Sundarbans, is an integrated model that offers a unique destination with a focus on biodiversity and provides visitors with an immersive and authentic experience.",
+          "concept": "Jalaj Nayachar, based on the model of Jalaj Homestay, Safari, and Awareness & Sale Point, is located in Nayachar Eco Village—a pristine island in the heart of the Hooghly River. The destination aims to become an eco-tourism and cultural hub, showcasing West Bengal's rich natural heritage and cultural diversity. By offering homestays and integrating conservation into the tourism experience, Jalaj Nayachar creates a sustainable tourism model that benefits local communities. The island's proximity to the Sundarbans offers an exceptional opportunity for ecotourism, wildlife preservation, and cultural exchange.",
+          "activity": [
+            "Encouragement of local communities in ecotourism campaigns, offering their rich knowledge of the region's flora and fauna through Safari, while showcasing their craftsmanship and traditions to visitors at the Awareness and Sale Point.",
+            "Involvement of local communities in preserving natural resources through the homestay experience.",
+            "Visitors can participate in activities such as birdwatching and biodiversity watching, including dolphin watching."
+          ],
+          "howToReach": {
+            "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (approximately 145km).",
+            "railwayStation": "Howrah Junction (approximately 142km).",
+            "byBoat": "Jalaj Nayachar is accessible by boat from various points along the Hooghly River, providing a scenic and immersive journey to the island."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Prayaas",
+        "description": " Livelihood and Health & Wellness Centre",
+        "place": "Muzaffarnagar, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1opsOAM51jTFl69MahjARGrQM0-dSiSF9",
+        "coords": [77.94712200000, 29.35914200000],
+        "details": {
+          "intro": "Jalaj Prayaas is an integrated model developed at village Katiya, Jansath Block of Muzaffarnagar district in western Uttar Pradesh. The Yamuna River in the west and the Ganga River in the east separate the Muzaffarnagar district. Uttar Pradesh in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First war of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists.",
+          "concept": "Jalaj Prayas serves as a Livelihood Centre and Health and Wellness Centre. As its name suggests, it aims to promote healthy food alternatives as livelihood opportunities for the community. The platform empowers women Ganga Praharis, making them self-reliant through skill development training. The main objective of Jalaj Prayas is to bring these women to the forefront of ecological conservation by helping them create sustainable livelihoods. Their self-reliance fuels their enthusiasm for conserving biodiversity and sharing knowledge about Gangetic species and their significance in maintaining ecological harmony. The workforce consists of women who use their traditional knowledge to prepare value-added products and edibles, utilizing locally available resources for a good health-oriented lifestyle.",
+          "activity": [
+            "Women are trained to utilise material that are readily available locally and create value added products such as Pickles, Jam, Chutney, Candy, Squash, Laddo etc.",
+            "Haiderpur wetland, a UNESCO Ramsar site, is a home to over 320 species of birds and numerous animals.",
+            "The centre aims to enhance the skills of local communities through the concept of a healthy lifestyle by utilizing herbal and millet products, as well as edibles, in conjunction with conservation efforts."
+          ],
+          "howToReach": {
+            "airport": "Indira Gandhi International Airport, New Delhi (approximately 156km from destination)",
+            "railwayStation": "Bijnor railway station (27km from Katiya) and Muzaffarnagar railway station (42km from Katiya)",
+            "byRoad": "The distance between Katiya, Muzaffarnagar (U.P.) and the roadways bus station is approximately 33km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Samagra",
+        "description": " Jalaj Safari & Livelihood Centre",
+        "place": "Varanasi, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1LaesXhIKw318YM68rJB-ZbKppBAr8kwt",
+        "coords": [83.13889000000, 25.47645900000],
+        "details": {
+          "intro": "Jalaj Samagra is an integrated model located in Dhakhawa village of Varanasi district, Uttar Pradesh. Varanasi lies in North India's Indo-Gangetic Plains, is extremely fertile due to the Ganges River's intermittent low-level flooding. Varanasi is located between the confluences of the Varuna and Assi streams in the Ganges. The two confluences are approximately two miles apart. Uttar Pradesh in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First war of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists.",
+          "concept": "Jalaj Samagra is a holistic approach to creating awareness among local people, pilgrims, and visitors through interactive and innovative activities such as biodiversity watches, dolphin selfies, watchpoints, religious tourism, a Ganga knowledge center, and the promotion of livelihood activities. These initiatives not only highlight the cultural and ecological importance of the area and its biodiversity but also create advocacy for conservation, alleviating pressure on the aquatic ecosystem.",
+          "activity": [
+            "Sarnath is 45 km from the village. The Ganges river dolphin, locally known as Sauns, can be seen through Jalaj Safari.",
+            "The Gauri Shankar Mahadev temple, a well-known religious site, is also a popular attraction. Sustainable products are prepared by the local communities of Jalaj Samagra to create livelihood opportunities."
+          ],
+          "howToReach": {
+            "airport": "Lal Bahadur Shastri International Airport (approximately 4km from Dhakhwa village)",
+            "railwayStation": "Varanasi Junction (approximately 45km from Dhakhwa village)",
+            "byRoad": "Sarnath is approximately 21km from Dhakhwa village."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Shallika",
+        "description": " Jalaj Safari and Awareness & Sale Point",
+        "place": "Simaria Ghat, Begusarai, Bihar",
+        "image": "https://lh3.googleusercontent.com/d/1nI9ipK0ytJn9zc-pdjgHnGj7vuklrLdz",
+        "coords": [86.00244900000, 25.37952400000],
+        "details": {
+          "intro": "Jalaj Shallika is an integrated model established at Simaria Ghat, in Begusarai District of Bihar. The name Bihar derives from the Sanskrit and Pali word 'vihara,' meaning 'abode.' It has been an abode for many rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, as well as one of the world's most widely adhered-to religions: Buddhism. The state is renowned for several traditional styles of painting, including Mithila painting (or Madhubani art) and Manjusha Painting. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and many other ancient monuments.",
+          "concept": "Jalaj Shallika promotes the Jalaj Safari and helps the boatmen recognize their responsibility towards the aquatic ecosystem. Jalaj Shallika not only introduces visitors to the cultural aspects of the area but also sensitizes them towards biodiversity conservation. Some of the Ganga Praharis are also trained as Disaster Response Force members and assist the district administration during critical situations.",
+          "activity": [
+            "Trained Ganga Praharis organize dolphin, otter and bird watching tours through Safari at Ganga ghat.",
+            "Simaria is the birth-place of the famous Indian poet Ramdhari Singh Dinkar who wrote in Hindi and Maithili languages. The Simaria Ghat has ecological, religious, and cultural importance and is famous for its 'Simaria Mela,' held during the month of Kartik every year."
+          ],
+          "howToReach": {
+            "airport": "Lok Nayak Jayaprakash Airport in Patna (approximately 200km from Simaria Ghat)",
+            "railwayStation": "Begusarai station (approximately 20km from Simaria Ghat)",
+            "byRoad": "The distance between Begusarai to Simaria is approximately 19km."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Shashwat",
+        "description": " Jalaj Safari and Awareness & Sale point",
+        "place": "Guptar Ghat, Ayodhya, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/11QyseNA-HaEMxeeHqs2zVWhqalFnbI2n",
+        "coords": [82.11658600000, 26.79913500000],
+        "details": {
+          "intro": "Jalaj Shashwat is an integrated model located at Guptar Ghat along the Ghagra river in the Ayodhya district of Uttar Pradesh. Uttar Pradesh in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First war of Independence of 1857. The state consists of India’s holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. Bijnor occupies the north-west corner of the Moradabad Division (historically, Rohilkhand or Bareilly region). The western boundary is formed throughout by the deep stream of the river Ganges, beyond which lie the four districts- Haridwar, Saharanpur, Muzaffarnagar, and Meerut.",
+          "concept": "Jalaj Shashwat signifies a strong link between the river and the people. This Jalaj functions as a Safari and Awareness & Sale Point at Guptar Ghat, an important religious site where Lord Rama took Jal Samadhi. It is managed by local Ganga Praharis, resulting in improved livelihood opportunities through the Awareness & Sale Point, as well as a trained workforce for conservation activities. Jalaj Shashwat is also connected with other small conservation-sensitive livelihood units, thereby demonstrating a circular economy model through Safari.",
+          "activity": [
+            "Jalaj Shashwat is a biodiversity hotspot and Jalaj Safaris spread awareness through biodiversity watch, Gangetic dolphin sightings, bird watching, and cultural and religious tours.",
+            "Sustainable products are prepared by local communities with a conservation message."
+          ],
+          "howToReach": {
+            "airport": "Chaudhary Charan Singh International Airport (Lucknow) (approximately 143km from Guptar Ghat)",
+            "railwayStation": "Ayodhya Cantt (approximately 50km away)",
+            "byRoad": "At a distance of 10km from Ayodhya Junction."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Uddhav",
+        "description": " Jalaj Safari, Awareness & Sale Point",
+        "place": "Udhwa Lake Bird Sanctuary, Sahibganj, Jharkhand",
+        "image": "https://example.com/image.jpg",
+        "coords": [87.83236200000, 24.96928500000],
+        "details": {
+          "intro": "Jalaj Uddhav is an integrated model located in Udhwa Lake Bird Sanctuary in Sahibganj district of Jharkhand. It is located in the small village called Udhwa, which takes its name from Saint Uddhava, a character in the Mahabharata who was a friend of Lord Krishna. Jharkhand, in various Indo-Aryan languages, means 'forest land'. In the ancient period, it was referred to as Kark Khand due to its location near Kark Rekha (Tropic of Cancer). The region was ruled by many empires and dynasties including Nanda, Maurya, and Gupta during ancient times. It is famous for Sohrai and Khovar painting, a mural art form practiced by women, and has witnessed significant tribal revolts during the rule of the British East India Company. The state is home to important religious sites like Parasnath, Baidyanath Dham, Maa Dewri Temple, and Chhinnamasta Temple, with Itkhori being a holy place for Hindus, Buddhists, and Jains, believed to be where Gautama Buddha started his journey to Bodh Gaya.",
+          "concept": "Jalaj Uddhav aims to raise awareness about the conservation of the Ganga and its biodiversity, and the preservation of pure culture and heritage sites through its awareness and sale point. In collaboration with Udhwa Lake Bird Sanctuary and the forest department, it provides visitors with info-graphics and a museum currently accessible to the public, along with a cafeteria. The complex also promotes eco-tourism, with sustainability as a key focus.",
+          "activity": [
+            "The primary objective of Jalaj Uddhav is to increase public awareness of Udhwa Lake Bird Sanctuary and its aquatic biodiversity through awareness and sale point.",
+            "It emphasizes cleaning campaigns and plantation drives.",
+            "Jalaj Safari at Jalaj Uddhav focuses on increasing ecotourism, raising awareness among locals, and emphasizing the importance of Udhwa Lake Bird Sanctuary conservation."
+          ],
+          "howToReach": {
+            "airport": "Birsa Munda Airport in Ranchi (approximately 400km away)",
+            "railwayStation": "Sahibganj Railway Station (approximately 65km away)",
+            "byRoad": "Sahibganj district is connected to Ranchi in Jharkhand by National Highway No. 33."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Utsavi",
+        "description": " Jalaj Safari and Livelihood Centre",
+        "place": "Sahibganj, Jharkhand",
+        "image": "https://lh3.googleusercontent.com/d/1FlbxEs1zoE3N9Oibuy9nePyUmawMv1rk",
+        "coords": [87.76942100000, 25.09878500000],
+        "details": {
+          "intro": "Jalaj Utsavi is an integrated model situated in Sahibganj district, the only district of Jharkhand located along the Ganga River. It promotes sustainable ecotourism and embeds the idea of conservation of aquatic species among both tourists and local people while conserving the Ganga River. Jharkhand, in various Indo-Aryan languages, means 'forest land'. In the ancient period, it was referred to as Kark Khand due to its location near Kark Rekha (Tropic of Cancer). The region was ruled by many empires and dynasties including Nanda, Maurya, and Gupta. It is famous for Sohrai and Khovar paintings, a mural art form practiced by women, and has witnessed maximum tribal revolts during the British East India Company rule. Major religious sites include Parasnath, Baidyanath Dham, Maa Dewri Temple, and Chhinnamasta Temple, and Itkhori is considered holy by Hindus, Buddhists, and Jains. It is believed to be where Gautama Buddha began his journey to Bodh Gaya.",
+          "concept": "Jalaj Utsavi consists of Jalaj Safari and Livelihood Centre at Kanhaiya Sthan. Ganga Praharis from communities such as fishermen, boatmen, youth, and women have been trained in alternative livelihood skills, including sewing, stitching, handicrafts, upcycled products, communication skills, and bird guide training. Eco-tourism boatmen from Sahibganj, trained in bird-watching and educating tourists about the importance of Ganga's aquatic biodiversity, are linked to the Jharkhand State Forest Department. The centers also showcase the Ganga Aquatic Life Conservation Monitoring Center (GACMC) materials on the aquatic flora and fauna of the Ganga River and sell sustainable merchandise, such as aquatic species-themed bags, water hyacinth products, and file folders. Eco-friendly materials are used to discourage single-use plastics.",
+          "activity": [
+            "Handicraft production units have been installed in Ganga villages like Ambadiha, Banskola, and Ghatjamni.",
+            "Kanhaiya Sthan, a historical site with the footprints of Lord Krishna and Radha, is situated on the bank of the Ganga River. Local communities are encouraged to sustain their livelihoods through local cultural products.",
+            "Through Jalaj Safari, tourists witness aquatic species like Gangetic dolphins, otters, muggers, freshwater turtles, and various avian species.",
+            "The Udhwa Bird Sanctuary serves as a natural habitat for numerous resident and winter migratory birds, including the Western Swallow, Blue-throat, Yellow and White Wagtail, Common Sandpiper, and Little-ringed Plover."
+          ],
+          "howToReach": {
+            "airport": "JP Narayan Airport in Patna (approximately 370km from Kanhaiya Sthan)",
+            "railwayStation": "Sahibganj Junction Station (approximately 29km from Kanhaiya Sthan)",
+            "byRoad": "Kanhaiya Sthan is approximately 30km from Sahibganj district."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Vidur",
+        "description": " Livelihood Centre and Awareness & Sale Point",
+        "place": "Vidurkuti, Bijnor, Uttar Pradesh",
+        "image": "https://example.com/image.jpg",
+        "coords": [78.10966600000, 29.28432900000],
+        "details": {
+          "intro": "Jalaj Vidur is an integrated model located at Vidhurkuti, Bijnor District in Uttar Pradesh that contributes significantly to the economic development and social well-being of the community. Uttar Pradesh, in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the birthplace of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state consists of India’s holiest cities, such as Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus, and Kushinagar and Sarnath for Buddhists. Bijnor lies in the north-west corner of the Moradabad Division, historically known as the Rohilkhand region, and is bordered by the river Ganges in the west, with nearby districts including Haridwar, Saharanpur, Muzaffarnagar, and Meerut.",
+          "concept": "Jalaj Vidur is based on a livelihood centre and awareness & sale point. The village attracts pilgrims and tourists alike, offering a unique blend of tranquility and mythological significance. Vidurkuti is a cultural and spiritual treasure in Uttar Pradesh. By providing the necessary skills and resources to local communities and Ganga Praharis, the establishment of a livelihood center and sales point in Vidurkuti has empowered the entire community. This initiative highlights locally made products and skilled workers. With the support of such endeavors, the community aims to achieve greater sustainability, reduce emigration to cities, and enhance self-sufficiency through sustained products.",
+          "activity": [
+            "Women's groups associated with Jalaj Vidur are skilled in making bags and Moonj baskets.",
+            "The center is rich in biodiversity and aims to spread awareness about the aquatic biodiversity conservation of the Ganga River.",
+            "The center engages in conservation projects such as tree planting, cleaning drives, and awareness campaigns to safeguard the environment and promote sustainable practices."
+          ],
+          "howToReach": {
+            "airport": "Jolly Grant Airport, Dehradun (approximately 130km from the destination)",
+            "railwayStation": "Muzaffarnagar Railway Station (approximately 42km from Bijnor)",
+            "byRoad": "Bijnor is well connected by road with major cities like Moradabad, Meerut, Haridwar, and other cities."
+          }
+        }
+      },
+      {
+        "name": "Jalaj Vindya",
+        "description": " Jalaj Safari and Awareness & Sale Point",
+        "place": "Mirzapur, Uttar Pradesh",
+        "image": "https://lh3.googleusercontent.com/d/1C-8LBC_KY7Nfzj9XRP2vjBEGn7zpIpGc",
+        "coords": [82.56400900000, 25.13428600000],
+        "details": {
+          "intro": "Jalaj Vindya is an integrated model located in Mirzapur, Uttar Pradesh, acting as a hub for learning, culture, and environmental preservation. Uttar Pradesh, in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the birthplace of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in ancient and medieval times, along with the site of the origin of the First War of Independence of 1857. The state consists of India’s holiest cities, such as Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus, and Kushinagar and Sarnath for Buddhists. Mirzapur is known for its brassware, carpet industries, and the folk music of Birha and Kajri. The district's Gangetic flood plains, home to the fertile Chanvar fields, are among India's most productive agricultural areas.",
+          "concept": "Jalaj Vindya is established as Jalaj Safari and Awareness & Sale point, located on the banks of the Ganges and rich in both history and culture. The city, historically linked with Lord Marquess Wellesley, is also significant in Hindu mythology as it lies where the Holy River Ganges meets the Vindhya Range. During Navratris, visitors flock to the Vindhyavasini Devi temple in Vindhyachal, a prominent Shakti Peeth. Jalaj Vindya plays a crucial role in bridging visitors, local populations, and conservation efforts while supporting sustainable practices.",
+          "activity": [
+            "The community can benefit from skill-development programs offered by the center, increasing their employability in sectors such as tourism, hospitality, and crafts.",
+            "In Jalaj Safari, tourists can witness aquatic species like Gangetic dolphins and freshwater turtles, along with avian species.",
+            "The center actively participates in community festivals such as Deep Mahotsav and Lohandi Mela by providing spaces for local craftsmen and vendors to exhibit their products, thereby supporting their livelihoods."
+          ],
+          "howToReach": {
+            "airport": "Lal Bahadur Shastri International Airport, Varanasi (approximately 70km from Mirzapur)",
+            "railwayStation": "Mirzapur Junction (approximately 3km from the destination)",
+            "byRoad": "Mirzapur is well-connected by road to major cities in Uttar Pradesh."
+          }
+        }
+      }                                          
     ]
   }
