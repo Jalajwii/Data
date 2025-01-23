@@ -64,7 +64,7 @@
       },
       {
         "name": "Jalaj Aayush",
-        "description": "Health and Wellness Center",
+        "description": "Health & Wellness Center",
         "place": "Medinipur, West Bengal",
         "image": "https://example.com/image.jpg",  
         "coords": [87.317744, 22.425682],  
@@ -191,7 +191,7 @@
       },
       {
         "name": "Jalaj Urja",
-        "description": " Jalaj Safari, Awareness and Sale Point",
+        "description": " Jalaj Safari, Awareness & Sale Point",
         "place": "Bulandshahr, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1D0q-4z6gVCxrrbX_sqg2_5GjJ3YwWNaO",
         "coords": [78.39711, 28.188947], 
@@ -213,7 +213,7 @@
       },
       {
         "name": "Jalaj Aadri",
-        "description": " Homestay",
+        "description": "Homestay",
         "place": "Pauri (Garhwal), Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1Et6QdDMoFHSI5Atk_PcPMD3AFSluX8z0",
         "coords": [78.680905, 29.861069],
@@ -233,7 +233,7 @@
       },
       {
         "name": "Jalaj Anand Ganga",
-        "description": " Homestay",
+        "description": "Homestay",
         "place": "Uttarkashi, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1H0XjIfVIXXRorE948ggZpqdtfIolVZOf",
         "coords": [78.474328, 30.75197], 
@@ -255,7 +255,7 @@
       },
       {
         "name": "Jalaj Dhruv Nanda",
-        "description": " Homestay",
+        "description": "Homestay",
         "place": "Tehri Garhwal, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1VJBhKlLOjlvWz0KtbrqIXOsGPBHqBbIw",
         "coords": [78.473149, 30.383267],
@@ -336,7 +336,7 @@
       },
       {
         "name": "Jalaj Aali",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Matli, Uttarkashi, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1l5MJusxgxdLYHMzPs6XU9gI9mrdSO1RA", 
         "coords": [78.38162500000, 30.74072000000], 
@@ -357,7 +357,7 @@
       },
       {
         "name": "Jalaj Abhyaran",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Pilibhit Tiger Reserve, Pilibhit, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/10QZnKWi_jySnreERSZCKYXT8W1MBgGkV", 
         "coords": [80.03186600000, 28.70088300000], 
@@ -400,7 +400,7 @@
       },
       {
         "name": "Jalaj Amnay",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Purba Medinipur, West Bengal",
         "image": "https://lh3.googleusercontent.com/d/1vmfS4a4oaElnXRBQM8YNUuY7k3k9sOvR",
         "coords": [87.78742000000, 22.23406200000], 
@@ -421,7 +421,7 @@
       },
       {
         "name": "Jalaj Anubhuti",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Kanpur, Uttar Pradesh",
         "image": "https://example.com/image.jpg",
         "coords": [80.30376700000, 26.50317700000],
@@ -442,7 +442,7 @@
       },
       {
         "name": "Jalaj Biswakavi",
-        "description": " Awareness & Sale point",
+        "description": "Awareness & Sale point",
         "place": "Ballavpur Wildlife Sanctuary, Birbhum, West Bengal",
         "image": "https://example.com/image.jpg",
         "coords": [87.66582200000, 23.68343300000],  
@@ -483,7 +483,7 @@
       },
       {
         "name": "Jalaj Dasam",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Rampur Ghat, near Ram Mandir, Paonta Sahib, Sirmaur district, Himachal Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1yGVaR-QzXW7-gInACV0v8RC7-MPuKk79", 
         "coords": [77.60311800000, 30.44757400000],  
@@ -505,7 +505,7 @@
       },
       {
         "name": "Jalaj Ganga Avlokan",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Haridwar, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1_FaWvLgWdemNWjRhUTH6sJILtQvSRjeK",
         "coords": [78.17163900000, 29.94340000000],
@@ -527,7 +527,7 @@
       },
       {
         "name": "Jalaj Kanan",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Chorgaliya, near Haldwani, Nainital, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1mLUFo4l_c-qM5vKU8H7PcNw-tVy5E0xv",
         "coords": [79.70560500000, 29.13153900000], 
@@ -607,7 +607,7 @@
       },
       {
         "name": "Jalaj Shilibhoot",
-        "description": " Awareness & Sale Point",
+        "description": "Awareness & Sale Point",
         "place": "Sahibganj, Jharkhand",
         "image": "https://lh3.googleusercontent.com/d/1rDjxu6CFzF8lx8FpgUrHBkz04x4V3w0C",
         "coords": [87.50016500000, 25.15139300000], 
@@ -691,7 +691,7 @@
       },
       {
         "name": "Jalaj Aalay",
-        "description": " Homestay and Health & Wellness Centre",
+        "description": "Homestay and Health & Wellness Centre",
         "place": "Kanda Village, near Champawat district, Uttarakhand",
         "image": "https://lh3.googleusercontent.com/d/1TtLcYjC_gRZKv10VH3rK1fbWEWNR_iJN",
         "coords": [80.12411200000, 29.32968100000],
@@ -712,7 +712,7 @@
       },
       {
         "name": "Jalaj Amala",
-        "description": " Jalaj Safari, Livelihood Centre and Awareness & Sale Point",
+        "description": "Jalaj Safari, Livelihood Centre and Awareness & Sale Point",
         "place": "Bhagalpur District, Bihar",
         "image": "https://lh3.googleusercontent.com/d/1gc9KK_04S7Go_7AMoDk_nLWtiiISJwhv",
         "coords": [86.93211800000, 25.24354700000],
@@ -754,7 +754,7 @@
       },
       {
         "name": "Jalaj Ganga Viharini",
-        "description": " Jalaj Safari and Awareness & Sale Point",
+        "description": "Jalaj Safari and Awareness & Sale Point",
         "place": "Bijnor Barrage, Bijnor, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1CLwKRxYjFwJ1trgMr1CMgVph1FXFmqmZ", 
         "coords": [78.04173300000, 29.37267600000], 
@@ -775,7 +775,7 @@
       },
       {
         "name": "Jalaj Kasturi",
-        "description": " Jalaj Safari & Livelihood Centre",
+        "description": "Jalaj Safari and Livelihood Centre",
         "place": "Mehandi Ghat, Kannauj, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1y2lTCvXmBxpcccv6deRQDCnIyFTXM5tj", 
         "coords": [79.96976100000, 27.01156300000], 
@@ -796,7 +796,7 @@
       },
       {
         "name": "Jalaj Narayani",
-        "description": " Jalaj Safari, Livelihood Centre and Health & Wellness Centre",
+        "description": "Jalaj Safari, Livelihood Centre and Health & Wellness Centre",
         "place": "Domri, Varanasi, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1NuAMF5XmzASSdVoLWzFuze589WTfAXWL", 
         "coords": [83.05362500000, 25.36170300000], 
@@ -817,7 +817,7 @@
       },
       {
         "name": "Jalaj Nayachar",
-        "description": " Homestay, Jalaj Safari and Awareness & Sale Point",
+        "description": "Homestay, Jalaj Safari and Awareness & Sale Point",
         "place": "Nayachar, Purba Medinipur, West Bengal",
         "image": "https://lh3.googleusercontent.com/d/1CLdaIqMc3jY0YTc0c6q4iCoz7AcbqTSB", 
         "coords": [88.16144200000, 23.62806800000], 
@@ -838,7 +838,7 @@
       },
       {
         "name": "Jalaj Prayaas",
-        "description": " Livelihood and Health & Wellness Centre",
+        "description": "Livelihood and Health & Wellness Centre",
         "place": "Muzaffarnagar, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1opsOAM51jTFl69MahjARGrQM0-dSiSF9",
         "coords": [77.94712200000, 29.35914200000],
@@ -859,7 +859,7 @@
       },
       {
         "name": "Jalaj Samagra",
-        "description": " Jalaj Safari & Livelihood Centre",
+        "description": "Jalaj Safari & Livelihood Centre",
         "place": "Varanasi, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1LaesXhIKw318YM68rJB-ZbKppBAr8kwt",
         "coords": [83.13889000000, 25.47645900000],
@@ -879,7 +879,7 @@
       },
       {
         "name": "Jalaj Shallika",
-        "description": " Jalaj Safari and Awareness & Sale Point",
+        "description": "Jalaj Safari and Awareness & Sale Point",
         "place": "Simaria Ghat, Begusarai, Bihar",
         "image": "https://lh3.googleusercontent.com/d/1nI9ipK0ytJn9zc-pdjgHnGj7vuklrLdz",
         "coords": [86.00244900000, 25.37952400000],
@@ -899,7 +899,7 @@
       },
       {
         "name": "Jalaj Shashwat",
-        "description": " Jalaj Safari and Awareness & Sale point",
+        "description": "Jalaj Safari and Awareness & Sale point",
         "place": "Guptar Ghat, Ayodhya, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/11QyseNA-HaEMxeeHqs2zVWhqalFnbI2n",
         "coords": [82.11658600000, 26.79913500000],
@@ -919,7 +919,7 @@
       },
       {
         "name": "Jalaj Uddhav",
-        "description": " Jalaj Safari, Awareness & Sale Point",
+        "description": "Jalaj Safari, Awareness & Sale Point",
         "place": "Udhwa Lake Bird Sanctuary, Sahibganj, Jharkhand",
         "image": "https://example.com/image.jpg",
         "coords": [87.83236200000, 24.96928500000],
@@ -940,7 +940,7 @@
       },
       {
         "name": "Jalaj Utsavi",
-        "description": " Jalaj Safari and Livelihood Centre",
+        "description": "Jalaj Safari and Livelihood Centre",
         "place": "Sahibganj, Jharkhand",
         "image": "https://lh3.googleusercontent.com/d/1FlbxEs1zoE3N9Oibuy9nePyUmawMv1rk",
         "coords": [87.76942100000, 25.09878500000],
@@ -962,7 +962,7 @@
       },
       {
         "name": "Jalaj Vidur",
-        "description": " Livelihood Centre and Awareness & Sale Point",
+        "description": "Livelihood Centre and Awareness & Sale Point",
         "place": "Vidurkuti, Bijnor, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1quEw2-5w27ulJWSEsTQ9tNvZcAH7gdJM",
         "coords": [78.10966600000, 29.28432900000],
@@ -983,7 +983,7 @@
       },
       {
         "name": "Jalaj Vindya",
-        "description": " Jalaj Safari and Awareness & Sale Point",
+        "description": "Jalaj Safari and Awareness & Sale Point",
         "place": "Mirzapur, Uttar Pradesh",
         "image": "https://lh3.googleusercontent.com/d/1C-8LBC_KY7Nfzj9XRP2vjBEGn7zpIpGc",
         "coords": [82.56400900000, 25.13428600000],
