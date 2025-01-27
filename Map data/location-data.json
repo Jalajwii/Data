@@ -65,8 +65,7 @@
       {
         "name": "Jalaj Aayush",
         "description": "Health & Wellness Centre",
-        "place": "Medinipur, West Bengal",
-        "image": "https://example.com/image.jpg",  
+        "place": "Medinipur, West Bengal",  
         "coords": [87.317744, 22.425682],  
         "details": {
           "intro": "Jalaj Aayush is working on the areas of agriculture, basic health, education, rural development, environmental protection, and improved lifestyles for underprivileged children. Jalaj is proposed to give the economically and socially downtrodden people more opportunities. The centre is situated in Medinipur district of West Bengal. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, etc. Medinipur, known as Midnapore or Madanipur, is a historic city in West Bengal, India, and the headquarters of the West Medinipur district. Situated along the Kangsabati River, it comprises the urban areas of Mohanpur, Keranichati, Khayerullachak, and the city proper. Together with the nearby city of Kharagpur, it forms the Midnapore Kharagpur Development Authority metro area.",
@@ -423,7 +422,6 @@
         "name": "Jalaj Anubhuti",
         "description": "Awareness & Sale Point",
         "place": "Kanpur, Uttar Pradesh",
-        "image": "https://example.com/image.jpg",
         "coords": [80.30376700000, 26.50317700000],
         "details": {
           "intro": "Jalaj Anubhuti in Kanpur offers an opportunity to connect with nature, learn about wildlife conservation, and spend a day amidst the diverse flora and fauna of Uttar Pradesh. Uttar Pradesh, in the Vedic Age, was known as Brahmarshi Desha or Madhya Desha. This sacred land has been the birthplace of Lord Rama in Ayodhya, and Lord Krishna and Lord Parshuram in Mathura. It has also been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state is home to some of India's holiest cities for Hindus, including Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur, as well as significant Buddhist sites like Kushinagar and Sarnath. Kanpur, originally known as Cawnpore, is a major industrial city in central-western Uttar Pradesh, India. Established in 1207, it became a significant military and commercial hub during British rule. Now part of the upcoming Bundelkhand Industrial Development Authority (BIDA), Kanpur is the ninth-largest urban economy in India and a key financial and industrial centre in North India. Situated on the Ganges River, it is renowned for its IT parks, sweets, gardens, colonial architecture, and high-quality textile, leather, and plastic goods, primarily exported to the West. One of India's oldest zoological parks, Kanpur Zoological Park, was established and first accessible to the general public on February 4, 1974, in a manmade forest.",
@@ -441,23 +439,22 @@
         }
       },
       {
-        "name": "Jalaj Biswakavi",
+        "name": "Jalaj Biswakabi",
         "description": "Awareness & Sale point",
         "place": "Ballavpur Wildlife Sanctuary, Birbhum, West Bengal",
-        "image": "https://example.com/image.jpg",
         "coords": [87.66582200000, 23.68343300000],  
         "details": {
-          "intro": "Jalaj Biswakavi is established at Ballavpur wildlife sanctuary in Birbhum district of West Bengal is based on the model of awareness and sale point. The Wildlife Sanctuary of Ballavpur situated between the Ajay and the Damodar, two mighty rivers. West Bengal is the one of the most culturally & ethnically diverse state in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centre. The land is probably one the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar and Swami Vivekananda, etc. In the past, the Birbhum district saw numerous religious and cultural movements. Rabindranath Tagore founded the Visva Bharati University in Santiniketan, which is one of the locations Birbhum is renowned for.The area celebrates a number of holidays, such as 'Poush Mela.' Often referred to as 'the land of red soil,' Birbhum is distinguished from the other West Bengal districts by its unique geography and cultural legacy.",
-          "concept": "Jalaj Biswakavi at Ballavpur wildlife santuary has an objective of awareness about conservation of Ganga and its biodiversity and preservation of the pure culture and heritage sites. With the collaboration of Ballavpur wildlife santiary’s authorities, which contributes for the wildlife conservation with awareness campaigns and with the concept of sale point which provides sustainable products made by local artiseries with eco-friendly methods.",
+          "intro": "Jalaj Biswakabi is established at Ballavpur wildlife sanctuary in Birbhum district of West Bengal is based on the model of awareness and sale point. The Wildlife Sanctuary of Ballavpur situated between the Ajay and the Damodar, two mighty rivers. West Bengal is the one of the most culturally & ethnically diverse state in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centre. The land is probably one the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar and Swami Vivekananda, etc. In the past, the Birbhum district saw numerous religious and cultural movements. Rabindranath Tagore founded the Visva Bharati University in Santiniketan, which is one of the locations Birbhum is renowned for.The area celebrates a number of holidays, such as 'Poush Mela.' Often referred to as 'the land of red soil,' Birbhum is distinguished from the other West Bengal districts by its unique geography and cultural legacy.",
+          "concept": "Jalaj Biswakabi at Ballavpur wildlife santuary has an objective of awareness about conservation of Ganga and its biodiversity and preservation of the pure culture and heritage sites. With the collaboration of Ballavpur wildlife santiary’s authorities, which contributes for the wildlife conservation with awareness campaigns and with the concept of sale point which provides sustainable products made by local artiseries with eco-friendly methods.",
           "activity": [
-            "The primary objective of Jalaj Biswakavi is to increase public awareness of the Ganga and its biodiversity.",
+            "The primary objective of Jalaj Biswakabi is to increase public awareness of the Ganga and its biodiversity.",
             "It also emphasizes cleanliness and plantation drives.",
             "Jalaj Ballavpur wildlife santuary also focuses onto increase ecotourism, create livelihood opportunties for locals, and increase public awareness of the importance of wildlife conservation and heritage preservation."
           ],
           "howToReach": {
             "airport": "Netaji Subhas Chandra bose International airport is approximately 200km away.",
             "railwayStation": "Bolpur railway station (6.5km approx.)",
-            "byRoad": "Jalaj Biswakavi is well connected with road from Bolpur, which is the nearest major town."
+            "byRoad": "Jalaj Biswakabi is well connected with road from Bolpur, which is the nearest major town."
           }
         }
       },
@@ -651,7 +648,6 @@
         "name": "Jalaj Jamnuja",
         "description": "Awareness & Sale Point",
         "place": "Kalesar, Yamunanagar, Haryana",
-        "image": "https://example.com/image.jpg",
         "coords": [77.42186100000, 30.42914200000],
         "details": {
           "intro": "Jalaj Jamnuja is located in the Yamunanagar district of Haryana within the premises of Kaleshar Mahadev Math, Kaleshar. It serves as a production, sale, and awareness centre. Haryana's name is thought to have come from the combination of the words 'Hari' (Lord Vishnu) and 'Ayana' (abode). While the Mahabharata and Kurukshetra War are essential to Haryana's historical and cultural identity, the statement that the Bhagavad Gita was born in Haryana is more of a religious and mythological belief. Haryana’s agriculture played a significant role in the Green Revolution. The spiritual institution Kalesar Mahadev Math, known for its calm surroundings and cultural significance, stands as an important historic place.",
@@ -921,7 +917,7 @@
         "name": "Jalaj Uddhav",
         "description": "Jalaj Safari, Awareness & Sale Point",
         "place": "Udhwa Lake Bird Sanctuary, Sahibganj, Jharkhand",
-        "image": "https://example.com/image.jpg",
+        "image": "https://lh3.googleusercontent.com/d/1JPhYxRPweUeCBNyK0iavyhvfjl6ib4Bs",
         "coords": [87.83236200000, 24.96928500000],
         "details": {
           "intro": "Jalaj Uddhav is an integrated model located in Udhwa Lake Bird Sanctuary in Sahibganj district of Jharkhand. It is located in the small village called Udhwa, which takes its name from Saint Uddhava, a character in the Mahabharata who was a friend of Lord Krishna. Jharkhand, in various Indo-Aryan languages, means 'forest land'. In the ancient period, it was referred to as Kark Khand due to its location near Kark Rekha (Tropic of Cancer). The region was ruled by many empires and dynasties including Nanda, Maurya, and Gupta during ancient times. It is famous for Sohrai and Khovar painting, a mural art form practiced by women, and has witnessed significant tribal revolts during the rule of the British East India Company. The state is home to important religious sites like Parasnath, Baidyanath Dham, Maa Dewri Temple, and Chhinnamasta Temple, with Itkhori being a holy place for Hindus, Buddhists, and Jains, believed to be where Gautama Buddha started his journey to Bodh Gaya.",
