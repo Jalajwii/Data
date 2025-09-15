@@ -813,11 +813,11 @@
       {
         "name": "Jalaj Nayachar",
         "description": "Homestay, Jalaj Safari and Awareness & Sale Point",
-        "place": "Nayachar, Purba Medinipur, West Bengal",
+        "place": "Nayachar, Eco-Village, Nadia, West Bengal",
         "image": "https://lh3.googleusercontent.com/d/1CLdaIqMc3jY0YTc0c6q4iCoz7AcbqTSB", 
         "coords": [88.16144200000, 23.62806800000], 
         "details": {
-          "intro": "Jalaj Nayachar is an island in the Hooghly River, located in Purba Medinipur, West Bengal, off the coast of Haldia. West Bengal is one of the most culturally and ethnically diverse states in India, with a rich history featuring a succession of Indian empires, internal squabbling, and a historical tussle between Hinduism and Buddhism. The region was a hotspot for the Indian independence movement and has remained an intellectual and artistic centre in India. The state is home to renowned figures such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda. Jalaj Nayachar, situated in the Sundarbans, is an integrated model that offers a unique destination with a focus on biodiversity and provides visitors with an immersive and authentic experience.",
+          "intro": "Nayachar is an island in the Hooghly River, located in Purba Medinipur, West Bengal, off the coast of Haldia. West Bengal is one of the most culturally and ethnically diverse states in India, with a rich history featuring a succession of Indian empires, internal squabbling, and a historical tussle between Hinduism and Buddhism. The region was a hotspot for the Indian independence movement and has remained an intellectual and artistic centre in India. The state is home to renowned figures such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda. Jalaj Nayachar, situated in the Sundarbans, is an integrated model that offers a unique destination with a focus on biodiversity and provides visitors with an immersive and authentic experience.",
           "concept": "Jalaj Nayachar, based on the model of Jalaj Homestay, Safari, and Awareness & Sale Point, is located in Nayachar Eco Village—a pristine island in the heart of the Hooghly River. The destination aims to become an eco-tourism and cultural hub, showcasing West Bengal's rich natural heritage and cultural diversity. By offering homestays and integrating conservation into the tourism experience, Jalaj Nayachar creates a sustainable tourism model that benefits local communities. The island's proximity to the Sundarbans offers an exceptional opportunity for ecotourism, wildlife preservation, and cultural exchange.",
           "activity": [
             "Encouragement of local communities in ecotourism campaigns, offering their rich knowledge of the region's flora and fauna through Safari, while showcasing their craftsmanship and traditions to visitors at the Awareness and Sale Point.",
@@ -1023,5 +1023,6 @@
        }
     ]
   }
+
 
 
