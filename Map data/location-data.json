@@ -72,29 +72,6 @@
       }
     },
     {
-      "name": "Jalaj Aayush",
-      "description": "Health & Wellness Centre",
-      "place": "Medinipur, West Bengal",
-      "coords": [
-        87.317744,
-        22.425682
-      ],
-      "details": {
-        "intro": "Jalaj Aayush is working on the areas of agriculture, basic health, education, rural development, environmental protection, and improved lifestyles for underprivileged children. Jalaj is proposed to give the economically and socially downtrodden people more opportunities. The centre is situated in Medinipur district of West Bengal. West Bengal is one of the most culturally & ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore, Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda, etc. Medinipur, known as Midnapore or Madanipur, is a historic city in West Bengal, India, and the headquarters of the West Medinipur district. Situated along the Kangsabati River, it comprises the urban areas of Mohanpur, Keranichati, Khayerullachak, and the city proper. Together with the nearby city of Kharagpur, it forms the Midnapore Kharagpur Development Authority metro area.",
-        "concept": "Jalaj Aayush has an objective of organic farming, awareness about conservation of Ganga and its biodiversity, and preservation of the pure culture and heritage sites. Jalaj Aayush focuses on wildlife conservation with awareness campaigns and with the concept of a sale point which can provide sustainable products made by local artisans with eco-friendly methods. It is also working on organic farming specifically on millet farming for better health and wellness along with fish farming practices.",
-        "activity": [
-          "The primary objective of Jalaj Aayush is to increase public awareness of the Ganga and its biodiversity.",
-          "It also emphasizes cleanliness and plantation drives.",
-          "Jalaj Aayush also focuses on increasing ecotourism, creating livelihood opportunities for locals, and increasing public awareness of the importance of wildlife conservation and heritage and culture preservation."
-        ],
-        "howToReach": {
-          "airport": "Netaji Subhas Chandra Bose International Airport is approximately 140km away.",
-          "railwayStation": "Midnapur railway station (6.5km approx.)",
-          "byRoad": "Jalaj Aayush is well connected by road."
-        }
-      }
-    },
-    {
       "name": "Jalaj Aikanta",
       "description": "Jalaj Safari",
       "place": "Bandel, West Bengal",
@@ -455,7 +432,7 @@
     },
     {
       "name": "Jalaj Amnay",
-      "description": "Awareness & Sale Point",
+      "description": "Health & Wellness Centre",
       "place": "Purba Medinipur, West Bengal",
       "image": "https://lh3.googleusercontent.com/d/1vmfS4a4oaElnXRBQM8YNUuY7k3k9sOvR",
       "coords": [
@@ -463,63 +440,17 @@
         22.23406200000
       ],
       "details": {
-        "intro": "Jalaj Amnay, situated in Purba Medinipur district, West Bengal, in collaboration with the Amnay Foundation, is a voluntary non-profit organization founded by social workers. The foundation aims to empower underprivileged communities in areas like agriculture, human rights, health, education, rural development, and environmental protection. West Bengal is one of the most culturally and ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda.",
-        "concept": "Jalaj Amnay, established in Purba Medinipur district, West Bengal, collaborates with the Amnay Foundation, sharing principles of empowerment, equality, inclusion, well-being, preservation, and education. Together, they uplift communities, maintain equity, preserve cultural heritage, and educate for a better future, envisioning a society where every individual leads a dignified and meaningful life, fostering flourishing and decency for all.",
+        "intro": "Jalaj Amnay, situated in Purba Medinipur district, West Bengal  is a Health and Wellness model that works on millet farming, rural development, environmental protection, and promoting healthier lifestyles through millet-based foods and yoga. It aims to improve basic human health by encouraging a shift from dependence on Western medicine to traditional Indian holistic practices integrating yoga, meditation, Ayurveda, and chemical-free natural food. West Bengal is one of the most culturally and ethnically diverse states in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centres. The land is probably one of the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar, and Swami Vivekananda.",
+        "concept": "Jalaj Amnay is dedicated to promoting natural farming and chemical-free food production. Its core focus is on supporting better immunity and managing lifestyle-related disorders by encouraging the consumption of millet-based foods such as millet poha, flour, and whole millets. All crops are cultivated without the use of industrial chemical fertilizers. The initiative also produces low-glycemic date palm and toddy palm jaggery powders. In addition, Amnay emphasizes an active and holistic lifestyle by integrating yoga, exercise, and meditation, and by preparing millet-based cakes and savory snacks. Its broader mission is to protect soil and the environment by reducing chemical use, reviving traditional and sustainable agricultural practices, minimizing waste, and inspiring healthier lifestyles rooted in Ayurveda, yoga, and natural nutrition.",
         "activity": [
-          "Jalaj Amnay enhances the skills of local communities in areas such as organic farming, fish farming, and conservation. Additionally, there are training procedures for local craftsmen and craftspersons to create souvenirs, handicrafts, and artwork.",
-          "Supporting local people in ecotourism initiatives by exhibiting their handicrafts and customs and providing their extensive knowledge of the area's flora and fauna.",
+          "Jalaj Amnay enhances the skills of local communities in areas such as organic farming, fish farming, and conservation. Additionally, providing extensive knowledge of the area's flora and fauna.",
+          "Ecotourism through wellness retreat, livelihood opportunities for locals through natural farming, and increase public awareness on heritage and culture preservation.",
           "Participation from local communities not only supports their way of life but also enhances their ability to protect the environment. It also emphasizes cleaning campaigns and plantation drives."
         ],
         "howToReach": {
           "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (approx. 125km away)",
           "railwayStation": "Lavan Satyagrah Smarak Railway Station (approx. 25km away)",
-          "byBoat": "Public transport like buses are available from the village Kiyarana."
-        }
-      }
-    },
-    {
-      "name": "Jalaj Anubhuti",
-      "description": "Awareness & Sale Point",
-      "place": "Kanpur, Uttar Pradesh",
-      "coords": [
-        80.30376700000,
-        26.50317700000
-      ],
-      "details": {
-        "intro": "Jalaj Anubhuti in Kanpur offers an opportunity to connect with nature, learn about wildlife conservation, and spend a day amidst the diverse flora and fauna of Uttar Pradesh. Uttar Pradesh, in the Vedic Age, was known as Brahmarshi Desha or Madhya Desha. This sacred land has been the birthplace of Lord Rama in Ayodhya, and Lord Krishna and Lord Parshuram in Mathura. It has also been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state is home to some of India's holiest cities for Hindus, including Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur, as well as significant Buddhist sites like Kushinagar and Sarnath. Kanpur, originally known as Cawnpore, is a major industrial city in central-western Uttar Pradesh, India. Established in 1207, it became a significant military and commercial hub during British rule. Now part of the upcoming Bundelkhand Industrial Development Authority (BIDA), Kanpur is the ninth-largest urban economy in India and a key financial and industrial centre in North India. Situated on the Ganges River, it is renowned for its IT parks, sweets, gardens, colonial architecture, and high-quality textile, leather, and plastic goods, primarily exported to the West. One of India's oldest zoological parks, Kanpur Zoological Park, was established and first accessible to the general public on February 4, 1974, in a manmade forest.",
-        "concept": "Jalaj Anubhuti aims to act as a catalyst by utilizing the natural and cultural resources of the Kanpur zoo for inclusive and sustainable economic growth in the surrounding area. It seeks to promote responsible tourism and environmental protection while creating both direct and indirect livelihood opportunities. The park houses a wide variety of species, including leopards, Asiatic lions, rhinoceroses, spotted deer, rhesus monkeys, common civets, pythons, and Asiatic lions, with a strong emphasis on wildlife protection and ecological balance. To ensure the welfare of the animals, the park offers state-of-the-art facilities, including a veterinary centre, quarantine facilities, and high-tech security measures. The park serves as a valuable source of fresh air for Kanpur city and offers a range of activities for tourists, providing both educational and enjoyable experiences.",
-        "activity": [
-          "Jalaj Anubhuti organizes workshops for local residents to enhance their skills in areas such as hospitality, tourism, and conservation.",
-          "Training procedures for local craftsmen and craftspersons are offered to create souvenirs, handicrafts, and artwork.",
-          "At Jalaj Anubhuti’s sale point, local products will be displayed with conservation and awareness messages and information about the Kanpur zoo."
-        ],
-        "howToReach": {
-          "airport": "Kanpur Airport (approximately 25km away)",
-          "railwayStation": "Kanpur Railway Station (approximately 15km away)",
-          "byRoad": "Kanpur district is well connected to roads in Uttar Pradesh."
-        }
-      }
-    },
-    {
-      "name": "Jalaj Biswakabi",
-      "description": "Awareness & Sale point",
-      "place": "Ballavpur Wildlife Sanctuary, Birbhum, West Bengal",
-      "coords": [
-        87.66582200000,
-        23.68343300000
-      ],
-      "details": {
-        "intro": "Jalaj Biswakabi is established at Ballavpur wildlife sanctuary in Birbhum district of West Bengal is based on the model of awareness and sale point. The Wildlife Sanctuary of Ballavpur situated between the Ajay and the Damodar, two mighty rivers. West Bengal is the one of the most culturally & ethnically diverse state in India. Its early history featured a succession of Indian empires, internal squabbling, and a tussle between Hinduism and Buddhism for dominance. Ancient Bengal was the site of several major Janapadas, while the earliest cities date back to the Vedic period. The region was a hotbed of the Indian independence movement and has remained one of India's great artistic and intellectual centre. The land is probably one the richest in its culture since ages. West Bengal is the cradle of many renowned people such as Bankim Chandra Chattopadhyay, Rabindranath Tagore, Abanindranath Tagore (the father of modern Indian art, started the Bengal School of Art), Raja Ram Mohan Roy, Iswar Chandra Vidyasagar and Swami Vivekananda, etc. In the past, the Birbhum district saw numerous religious and cultural movements. Rabindranath Tagore founded the Visva Bharati University in Santiniketan, which is one of the locations Birbhum is renowned for.The area celebrates a number of holidays, such as 'Poush Mela.' Often referred to as 'the land of red soil,' Birbhum is distinguished from the other West Bengal districts by its unique geography and cultural legacy.",
-        "concept": "Jalaj Biswakabi at Ballavpur wildlife santuary has an objective of awareness about conservation of Ganga and its biodiversity and preservation of the pure culture and heritage sites. With the collaboration of Ballavpur wildlife santiary’s authorities, which contributes for the wildlife conservation with awareness campaigns and with the concept of sale point which provides sustainable products made by local artiseries with eco-friendly methods.",
-        "activity": [
-          "The primary objective of Jalaj Biswakabi is to increase public awareness of the Ganga and its biodiversity.",
-          "It also emphasizes cleanliness and plantation drives.",
-          "Jalaj Ballavpur wildlife santuary also focuses onto increase ecotourism, create livelihood opportunties for locals, and increase public awareness of the importance of wildlife conservation and heritage preservation."
-        ],
-        "howToReach": {
-          "airport": "Netaji Subhas Chandra bose International airport is approximately 200km away.",
-          "railwayStation": "Bolpur railway station (6.5km approx.)",
-          "byRoad": "Jalaj Biswakabi is well connected with road from Bolpur, which is the nearest major town."
+          "byRoad": "Public transport like buses are available from the village Kiyarana."
         }
       }
     },
@@ -1242,4 +1173,5 @@
     }
   ]
 }
+
 
