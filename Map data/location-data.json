@@ -1170,8 +1170,205 @@
           "byRoad": "Panchal Ghat is well connected by road."
         }
       }
+    },
+    {
+      "name": "Jalaj Vasuki",
+      "description": "Homestay",
+      "place": "Triyuginarayan, Uttarakhand",
+      "image": "https://lh3.googleusercontent.com/d/1XM516FeV-PdK0dN7b2uio4u4OnFXs1dv",
+      "coords": [
+        78.97362100000,
+        30.63949700000
+      ],
+      "details": {
+        "intro": "Jalaj Vasuki - a homestay model, is established at Triyuginarayan village, which is also a destination wedding spot, it is a diverse unit dedicated to preserving the cultural and traditional ethics of the Garhwal region. Devbhoomi Uttarakhand, an abode of Gods and Goddesses, is a region known for its peace, harmony, and tranquillity. For centuries, it has been a timeless destination for sages, warriors, travellers, excursionists, and knowledge seekers. The Garhwal region is bordered by Tibet in the north, Kumaon in the east, Uttar Pradesh in the south, and Himachal Pradesh in the northwest. Historically, Garhwal was known as Kedarkhand, meaning 'The Land of God'. The Katyuris are the earliest recorded ruling dynasty of the region and played a significant role in shaping the cultural and historical identity of both Kumaon and Garhwal. Rudraprayag, one of the prominent towns of Garhwal, is the sacred confluence of the rivers Mandakini and Alaknanda. This holy site is believed to be the place where Lord Shiva appeared and blessed Narad Muni. As the gateway to the Char Dham Yatra, Rudraprayag holds immense spiritual importance. Surrounded by majestic Himalayan peaks and lush natural beauty, the town offers a serene environment that attracts pilgrims, nature lovers, environmentalists, and hiking enthusiasts alike. Its peaceful setting makes it both a revered religious centre and a charming destination for travellers.",
+        "concept": "Jalaj Vasuki is a unique homestay established under the Jalaj Project, an initiative of the National Mission for Clean Ganga (NMCG) under the Ministry of Jal Shakti. Along with offering a comfortable stay and traditional food prepared with a homely touch, the homestay serves as a platform to showcase and strengthen the livelihood practices of local communities. Visitors staying at Jalaj Vasuki experience traditional ecological knowledge that is seamlessly woven into daily life, reflecting the cultural depth and environmental wisdom of the region. The homestay works closely with community members who prepare millet-based sweets and snacks, along with offerings for the sacred Triyuginarayan Temple. These offerings include incense sticks made from locally sourced herbs, highlighting both sustainable resource use and deep-rooted spiritual traditions. Community members are also involved in various health and wellness activities, which not only promote well-being but also support cultural continuity and economic empowerment.",
+        "activity": [
+          "Jalaj Vasuki organizes various activities to help guests immerse themselves in the local culture, offers activities like Maangal geet & dance in traditional attire and cultural songs.",
+          "Guests can experience organic farming practices, millet and herb cultivation in himalayan region for wellness products, and participate in yoga and meditation. They can take these products home for daily use, promoting healthy lifestyles and a meaningful connection with nature",
+          "Visitors can spend time in guided village walks, and interact with locals. The homestay also offers birdwatching and an opportunity to participate in pilgrimages."
+        ],
+        "howToReach": {
+          "airport": "Jolly Grant Airport, Dehradun (approximately 230km)",
+          "railwayStation": "Rishikesh Railway Station (approximately 214km)",
+          "byRoad": "Triyuginarayan Temple is easily accessible via the national highway which connects to Dehradun, Haridwar, Rishikesh and New Delhi."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Navparshva",
+      "description": "Jalaj Safari",
+      "place": "Naukuchiatal, Uttarakhand",
+      "image": "https://lh3.googleusercontent.com/d/1aHxFbw8IumZoHQkuLSVbtShkoxW3pqR-",
+      "coords": [
+        79.58364300000,
+        29.31816400000
+      ],
+      "details": {
+        "intro": "Jalaj Navparshva is established at Naukuchiatal town in Nainital district, It is a safari unit dedicated to conserve the native species and for preserving the cultural and traditional ethics of the Kumaon region. Devbhoomi Uttarakhand, an abode of Gods and Goddesses, is a region known for its peace, harmony, and tranquillity. It has long been a timeless destination for sages, warriors, travellers, excursionists, and knowledge seekers. Among its many scenic places, Nainital stands out as a quaint hill station often called the 'Lake District of India'. Located in the outer Himalayan foothills of Kumaon, Nainital is renowned for its calm lakes, beautiful landscapes, and pleasant weather. The picturesque Naini Lake, surrounded by verdant hills, forms the heart of the town and adds to its charm. Kumaon, historically known as Manaskhand and later as Kurmanchal, has been ruled by several Hindu dynasties, including the Katyuris and the Chands, whose cultural influence remains evident in the region. The name 'Kumaon' is believed to have originated from 'Kurmanchal', meaning the land of Kurmavatar-the tortoise incarnation of Lord Vishnu, the Hindu god of preservation. This sacred association contributed to the region's identity.",
+        "concept": "Jalaj Navparshva, also known as Naukuchiatal, literally means 'lake of nine corners'. This pristine lake is the deepest in the Nainital region, with a depth of 40.3 meters. Surrounded by lush green trees and shrubs, Naukuchiatal remains untouched by the chaos of city life, offering a serene retreat for nature lovers. Naukuchiatal is fed by an underground perennial spring, ensuring its waters remain fresh throughout the year. Visitors can witness flocks of ducks gracefully gliding to the shore, delighting in food offerings before returning to the lake. At one end of the lake lies a mesmerizing lotus pond, adding to its natural charm. As part of the Jalaj safari initiative, the lake serves as a hub for sustainable tourism, empowering local boatmen by integrating their livelihoods with ecological preservation.",
+        "activity": [
+          "Experience boating while listening to cultural stories and biodiversity knowledge shared by our boatmen as Ganga Praharis.",
+          "Capture memorable photographs in traditional local attire and take them home as souvenirs.",
+          "Purchase locally crafted products made by our Ganga Praharis.",
+          "Engage in birdwatching in the scenic valley."
+        ],
+        "howToReach": {
+          "airport": "Pantnagar Airport, Udham Singh Nagar (approximately 70km)",
+          "railwayStation": "Kathgodam Station (approximately 30km)",
+          "byRoad": "Naukuchiatal is well connected by road."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Taalketu",
+      "description": "Awareness & Sale Point",
+      "place": "Hastinapur, Uttar Padesh",
+      "image": "https://lh3.googleusercontent.com/d/1wTfNGFQsS_4D2CH_YKzk6DPVmU56E_v5",
+      "coords": [
+        78.00034600000,
+        29.17932600000
+      ],
+      "details": {
+        "intro": "Taalketu is located in the vicinity of Digambar Jain Jambudweep Temple in Hastinapur, surrounded by the Hastinapur Wildlife Sanctuary. Awareness Corner & Salepoint provides a special chance to see Uttar Pradesh's natural beauty, learn about its ecological history, and take part in wildlife conservation. Uttar Pradesh in the Vedic Age, was recognised as Brahmarshi Desha or Madhya Desha. This pious land has been the place of birth of Lord Rama at Ayodhya and Lord Krishna and Lord Parshuram at Mathura. It has also been the heartland of many empires in the ancient and medieval times along with the site of origin of the First war of Independence of 1857. The state consists of India's holiest cities: Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur for Hindus; and Kushinagar and Sarnath for Buddhists. The city has one of Asia's major gold marketplaces, the largest producer of musical instruments in India, and one of the greatest producers of sporting products. The city is referred to as the 'Sports City of India' and serves as a hub for education in western Uttar Pradesh. The capital of Mandodari's and Ramana's father-in-law's kingdom, Mayasura, may have inspired the city's name, Mayarashtra. Mai-dant-ka-khera, Mairaath, Mairashtra, and ultimately Meerut are possible mutations of this name. It was determined to be the remnants of the ancient city of Hastinapur, which was destroyed by the Ganga.",
+        "concept": "Hastinapur is significant because it was formerly the capital of the Kuru Kingdom in the epic Mahabharata and because it is a Jain sacred site. Archaeological evidence suggests that it was a big city during the Mahabharata period, and it is historically significant as the scene for pivotal events in the epic. It is now a pilgrimage place with many temples devoted to Jainism and Hinduism. Digambar Jain Temple has an historical importance that lies in its role as a modern physical representation of the ancient Jain cosmological model of Jambedivpa, which is a key setting in Jain scripture.",
+        "activity": [
+          "The Salepoint would give regional craftspeople and communities a venue to display their work and goods, creating income and business prospects. This may increase the local population's sense of duty and ownership for the sanctuary's conservation.",
+          "The area acts as a hub for culture and education, promoting intercultural understanding and highlighting the ecological significance of the Marve resemblance of this Digamber Jain Temple.",
+          "Jalaj Taalketu hosts a wide range of activities such as Cleanliness drive, Plantation drives as well as awareness activities at Jalaj Center. Through Jalaj initiative many Ganga Praharies, SHGs were linked and trained through Its livelihood programs. Local artisans were identified with numerous handcrafted products locally sourced in Hastinapur.",
+          "Awareness & Salepoint promotes responsible market strategies and ecotourism. It also promotes sustainable consumption of products which in the long time enhance resilient community and reliable market growth."
+        ],
+        "howToReach": {
+          "airport": "Indira Gandhi International Airport, Delhi (approximately 147km)",
+          "railwayStation": "Meerut Railway Station (approximately 45km)",
+          "byRoad": "Hastinapur Wildlife Sanctuary is accessible by road, and the nearest bus station is in Meerut."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Anubhuti",
+      "description": "Jalaj Safari",
+      "place": "Kanpur, Uttar Pradesh",
+      "image": "https://lh3.googleusercontent.com/d/1dB1QC1pj1RvalJlOzW35T7k76ZSrTITi",
+      "coords": [
+        80.30376600000,
+        26.50317600000
+      ],
+      "details": {
+        "intro": "Jalaj Anubhuti in Kanpur, Uttar Pradesh offers a serene view of the mesmerizing Atal Ghat which is a huge tourist attraction point and a sacred site for Hindu devotees. It carries the elements of the religious significance, making it a popular ghat in the city. Uttar Pradesh, in the Vedic Age, was known as Brahmarshi Desha or Madhya Desha. This sacred land has been the birthplace of Lord Rama in Ayodhya and Lord Krishna in Mathura. It has been the heartland of many empires in ancient and medieval times, as well as the site of the origin of the First War of Independence in 1857. The state is home to some of India's holiest cities for Hindus, including Varanasi, Prayagraj, Ayodhya, Mathura, Vrindavan, Gokul, and Gorakhpur, as well as significant Buddhist sites like Kushinagar and Sarnath. Kanpur, originally known as Cawnpore, is a major industrial city in central-western Uttar Pradesh, India. Established in 1207, it became a significant military and commercial hub during British rule. Kanpur is the ninth-largest urban economy in India and a key financial and industrial center in North India. Situated on the Ganga River, it is renowned for its IT parks, sweets, gardens, colonial architecture, and high-quality textile, leather, and plastic goods, primarily exported to the West.",
+        "concept": "Jalaj Anubhuti has been envisioned as a catalyst for sustainable development by drawing upon the natural, cultural, and religious significance of Atal Ghat. The initiative aims to strengthen the connection between local communities and the riverine ecosystem while encouraging responsible tourism practices. By integrating conservation efforts with livelihood creation, Jalaj Anubhuti seeks to provide both direct and indirect economic opportunities, especially for communities dependent on the river for their day-to-day sustenance.",
+        "activity": [
+          "Jalaj Anubhuti offers a organizes cleanliness drives at Ganga ghats along with plantation drives and workshops for local residents to enhance their skills in areas such as hospitality, eco-tourism and conservation.",
+          "Additionally, there are training procedures for the local boatmen and craftsmen to create souvenirs, handicrafts and artworks.",
+          "At Jalaj Anubhuti's dolphin safari, the boats are painted with the images of the aquatic biodiversity such as Gharials, Crocodiles and Dolphins depicting the conservation and awareness message to the people.",
+          "Women SHGs have been linked with the Jalaj Anubhuti and women are actively becoming our Ganga Praharis conducting awareness campaigns, plantation drives and cleanliness drives."
+        ],
+        "howToReach": {
+          "airport": "Kanpur airport (approximately 29km)",
+          "railwayStation": "Kanpur Central Railway station (approximately 7.4km)",
+          "byRoad": "Kanpur district is well connected to roads in Uttar Pradesh."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Patliputra",
+      "description": "Jalaj Safari",
+      "place": "NIT Ghat, Patna, Bihar",
+      "image": "https://lh3.googleusercontent.com/d/1T0R4owtoF2MvV1Z95FHFGjxPAFDW7aNR",
+      "coords": [
+        85.17117900000,
+        25.62203700000
+      ],
+      "details": {
+        "intro": "Jalaj Patliputra is located at NIT Ghat, Patna. The name 'Patliputra' signifies the historical depth of the area, as the city served the capital for numerous ancient empires, while NIT Ghat is a testament to the city's modern identity on the riverfront. The name Bihar derives from the Sanskrit and Pali word 'vihara', meaning 'abode'. It has been the power centers to rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, as well as one of the world's most widely adhered-to religion: Buddhism. The state is renowned for several traditional styles of painting, including, Mithila (or Madhubani art), and Manjusha and Tikuli. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and other ancient monuments. The Mahabodhi Temple, an ancient Buddhist temple in Bodh Gaya, where the Buddha is said to have attained enlightenment. Nalanda Mahavihara, one of the oldest universities in the world, is situated in Nalanda, Bihar. Patna Sahib boasts an illustrious past and is renowned for its rich heritage. The city is situated along the banks of the Ganga River, a site sacred to Hindus, Buddhists, and Sikhs, making it a significant pilgrimage destination.",
+        "concept": "The Jalaj Patliputra-Jalaj Safari at NIT Ghat is an initiative strategically established on the historic banks of the Ganga River, blending rich cultural heritage with critical environmental focus. This location is steeped in history, deriving its name, 'Patliputra', from the ancient city of Patna, which once served as the center of power for major Indian empires. Historically, the city was founded by Udayin at the confluence of the Son and Ganga rivers, shifting the capital from Rajgriha to this centrally located site. Jalaj Patliputra, initiative concentrates on a multi-faceted approach to conservation and development. Its key focus areas, include sewage treatment, sophisticated riverfront development, effective river surface cleaning, biodiversity conservation, afforestation, and comprehensive public awareness campaigns. By prioritizing the preservation of pure culture and heritage sites, the initiative ensures that development honors the area's deep sacred history. Furthermore, NIT Ghat holds modern cultural significance, famous as the location where Mahatma Gandhi's ashes were immersed into Ganga and an important venue for cultural events, including the Chhath Puja.",
+        "activity": [
+          "Provide a rich ecological experience on aquatic species such as gangetic dolphins, freshwater turtles, and avian species.",
+          "Organise interactive sessions, and demonstrations highlighting the importance of protecting aquatic species.",
+          "Organise cleanliness campaigns and plantation drives."
+        ],
+        "howToReach": {
+          "airport": "Jay Prakash Narayan Airport (approximately 5km)",
+          "railwayStation": "Patliputra Junction (5-8km)",
+          "byRoad": "Patna district connected to National Highway 31"
+        }
+      }
+    },
+    {
+      "name": "Jalaj Sudarshan",
+      "description": "Jalaj Safari",
+      "place": "Konhara Ghat, Hajipur, Bihar",
+      "image": "https://lh3.googleusercontent.com/d/1dYTkL7xpHsQ5ZnBUrJywW3uWQYJlRwrA",
+      "coords": [
+        85.19507800000,
+        25.67976600000
+      ],
+      "details": {
+        "intro": "Jalaj Sudarshan established at Konhara Ghat at Hajipur in Vaishali district of Bihar is a safari unit dedicated to Protect the native species through preservation of the cultural and traditional ethics of the region. The name Bihar derives from the Sanskrit and Pali word 'vihara', meaning 'abode'. It has been the power centers to rulers since ancient times until the colonial era. In ancient times, Magadha emerged as India's first empire, the Maurya empire, as well as one of the world's most widely adhered-to religion: Buddhism. The state is renowned for several traditional styles of painting, including, Mithila (or Madhubani art), and Manjusha and Tikuli. Traditionally, this form was practiced mainly by women and passed down from generation to generation. Bihar is home to two UNESCO World Heritage Sites and other ancient monuments. The Mahabodhi Temple, an ancient Buddhist temple in Bodh Gaya, where the Buddha is said to have attained enlightenment. Nalanda Mahavihara, one of the oldest universities in the world, is situated in Nalanda, Bihar. Patna Sahib boasts an illustrious past and is renowned for its rich heritage. The city is situated along the banks of the Ganga River, a site sacred to Hindus, Buddhists, and Sikhs, making it a significant pilgrimage destination.",
+        "concept": "Jalaj Sudarshan holds deep spiritual significance, revered for its connection to an ancient legend. The site's name is believed to have originated from the mythical battle between Gaja (elephant) and Graah (crocodile).  According to the legend, both Gaja and Graah were Gandharvas, transformed into their respective forms due to a curse, to grant Graah instant salvation, Lord Vishnu vanquished him while rescuing Gajaraj using their 'Sudarshan Chakra'. This legendary battle is an enduring symbol of faith and divine intervention, prominently depicted in various locations in Vaishali District.",
+        "activity": [
+          "Divine boating experience while listening to mythological stories and biodiversity significance by the trained safari boatmen.",
+          "Visitors can purchase locally crafted products made by the Ganga Praharis.",
+          "Visitors can engage in dolphin-watching in the scenic river.",
+          "Visitors can visit the Hari-Har (Hari means Lord Vishnu & Har means Lord Shiva) temple and also visit Konhara ghat park."
+        ],
+        "howToReach": {
+          "airport": "Jayprakash Narayan Airport, Patna (approximately 31km)",
+          "railwayStation": "Hajipur railway station (approximately 5km)",
+          "byRoad": "Konhara ghat is well connected by road."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Biswakabi",
+      "description": "Livelihood Centre",
+      "place": "Bolpur, Birbhum, West Bengal",
+      "image": "https://lh3.googleusercontent.com/d/1pj8T-FxC6yRrEaxLxv5sZjaN8EAv8zZ7",
+      "coords": [
+        87.66582193625,
+        23.68343264081
+      ],
+      "details": {
+        "intro": "Jalaj Biswakabi is established at Shantiniketan, a UNESCO-World Heritage Site in the Bolpur town of Birbhum district. It is based on the Livelihood Centre model and is located at the proximity of the timeless, picturesque and poet's muse, Kopai river, which is a tributary of Bakreshwar river. West Bengal is one of India's most culturally vibrant and diverse states, where tradition and intellect have beautifully intertwined. From the ancient Vedic period, when the region flourished with prominent Janapadas, Bengal grew as the cradle of civilization, philosophy, and art. The region witnessed the rise of great empires and became a confluence where Hinduism and Buddhism thrived, shaping its deep spiritual legacy. Bengal played a pivotal role in India's freedom struggle and later emerged as a beacon of artistic and literary excellence. giving birth to luminaries like Rabindranath Tagore, the first Asian Nobel Laureate, Bankim Chandra Chattopadhyay, Abanindranath Tagore (founder of Bengal School of Art and Father of Modern Indian Art), Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, Swami Vivekananda, Rani Rashmoni, Begum Rokeya, Kadambini Ganguly (first Indian lady doctor in Western Medicine), Ashapurna Devi, to name a few. Today, West Bengal proudly celebrates its living heritage, from Rabindra Sangeet to the Santhali tribal dances and Baaul Gaan, the grandeur of Durga Puja, listed as UNESCO's Intangible Cultural Heritage of Humanity, the architectural marvels of Bishnupur's terracotta temples, and the intellectual aura of Kolkata, often called the 'Cultural Capital of India', together make West Bengal a radiant symbol of India's cultural richness and historical depth",
+        "concept": "Jalaj Biswakabi is named after Rabindranath Tagore, who founded the Shantiniketan ashram school in 1901 and later established Visva-Bharati University in 1921 at Bolpur. His vision was to build a universal learning centre rooted in nature, transcending traditional classrooms and connecting diverse cultures while challenging the colonial model of classroom education. Later, Tagore developed 'Sriniketan', transforming a village into a self-sustaining cottage industry, one of his pioneer works. His model encouraged students to pass on their knowledge to local communities, strengthening resilience and self-reliance. Villagers were trained in pottery, leatherwork, batik printing, and woodcraft, enabling them to build sustainable livelihoods. Today, skilled artisans flourish here with firmly rooted craftsmanship inherited across generations. Nearly every home serves as a private workshop preserving their craft. In recognition of this enduring creative excellence, Shantiniketan has been declared a UNESCO World Heritage Site, safeguarding its cultural legacy.",
+        "activity": [
+          "The primary objective is to increase public awareness of the Ganga and its biodiversity through various outreach activities. It also emphasizes cleanliness and plantation drives.",
+          "Jalaj Biswakabi focuses on creating livelihood opportunities for locals through diverse skill development trainings on manufacturing sustainable products and handicrafts using eco-friendly materials.",
+          "In near future, it is planned to develop an Awareness & Salepoint to sell the products crafted by the locals, therefore making the community more resilient."
+        ],
+        "howToReach": {
+          "airport": "Netaji Subhas Chandra Bose International Airport (approximately 200km)",
+          "railwayStation": "Bolpur railway station (approximately 6.5km)",
+          "byRoad": "Jalaj Biswakabi is well connected with road from everywhere via Bolpur, the nearest major town."
+        }
+      }
+    },
+    {
+      "name": "Jalaj Tamralipti",
+      "description": "Jalaj Safari, Livelihood Centre and Homestay",
+      "place": "Purba Medinipur, West Bengal",
+      "image": "https://lh3.googleusercontent.com/d/1k7Yu-nK5ZyIxp5fSsu2ym9RouHiCv5DL",
+      "coords": [
+        87.94327200000,
+        22.25564600000
+      ],
+      "details": {
+        "intro": "Jalaj Tamralipti, in Tamluk subdivision of Purba Medinipur, West Bengal, is an integrated model with a livelihood centre, homestay, and dolphin safari. Located along the scenic Rupnarayan River, it draws its name from ancient Tamralipta, a major port during the Mauryan and Gupta eras. Tamluk also houses the revered Bargabhima Temple, one of the 51 Shaktipeethas. West Bengal is one of India's most culturally vibrant and diverse states, where tradition and intellect have beautifully intertwined. From the ancient Vedic period, when the region flourished with prominent Janapadas, Bengal grew as a cradle of civilization, philosophy, and art. The region witnessed the rise of great empires and became a confluence where Hinduism and Buddhism thrived, shaping its deep spiritual legacy. Bengal played a pivotal role in India's freedom struggle and later emerged as a beacon of artistic and literary excellence. giving birth to luminaries like Rabindranath Tagore, the first Asian Nobel Laureate, Bankim Chandra Chattopadhyay, Abanindranath Tagore (founder of Bengal School of Art and Father of Modern Indian Art), Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, Swami Vivekananda, Rani Rashmoni, Begum Rokeya, Kadambini Ganguly (first Indian lady doctor in Western Medicine), Ashapurna Devi, to name a few. Today, West Bengal proudly celebrates its living heritage, from Rabindra Sangeet to the Santhali tribal dances and Baaul Gaan, the grandeur of Durga Puja, listed as UNESCO's Intangible Cultural Heritage of Humanity, the architectural marvels of Bishnupur's terracotta temples, and the intellectual aura of Kolkata, often called the 'Cultural Capital of India', together make West Bengal a radiant symbol of India's cultural richness and historical depth.",
+        "concept": "Jalaj Tamralipti derives its name from the ancient port city of Tamralipta (modern day Tamluk), a thriving maritime hub from the 1st century BCE to the 8th century CE. Situated near the confluence of the Hooghly and Rupnarayan rivers, it served as a strategic dockyard enabling extensive trade with entire Southeast Asia, flourishing especially during the Mauryan and Gupta Age. Buddhism gained prominence here, and the town became a key centre for its spread to Southeast Asia. Renowned Chinese explorers like Fa-Hien, had recorded 22 monasteries, followed by Hiuen-Tsang, Tachengteng, Taolin, and I-tsing, all came to study Sanskrit and Buddhism here. The port eventually declined in the late 8th century due to river siltation and changes in the Rupnarayan's course, rendering ship movement impossible. Tamluk holds a deep religious significance as home to the Bargabhima Temple, one of the 51 Shaktipeethas, where the left ankle of Devi Sati is believed to have fallen. The temple is named after the presiding deity, Goddess Bhimpura.",
+        "activity": [
+          "To experience the Rupnarayan-Hooghly confluence up close, the site now offers a boat safari, providing opportunities to observe dolphins and other native wildlife.",
+          "Locals involve in guiding visitors to peaceful village walk through the quaint rural landscape, surrounded by lush greenery with a chance to spot local wildlife such as birds, small mammals, and herpetofauna.",
+          "Tourists are served traditional Bengali cuisine prepared with farm-fresh ingredients, offering an authentic and fulfilling homestay experience."
+        ],
+        "howToReach": {
+          "airport": "Subhash Chandra Bose International Airport, Kolkata (approximately 101km)",
+          "railwayStation": "Tamluk Railway Station, Mecheda Railway Station",
+          "byRoad": "95 kms approx. from Kolkata"
+        }
+      }
     }
   ]
 }
+
 
 
